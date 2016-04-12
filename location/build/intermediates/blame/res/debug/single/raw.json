@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\build\\intermediates\\res\\merged\\debug\\raw\\beep.ogg",
+        "source": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\build\\intermediates\\exploded-aar\\LocationWork\\libraryzxing\\unspecified\\res\\raw\\beep.ogg"
+    },
+    {
+        "merged": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\build\\intermediates\\res\\merged\\debug\\raw\\opersuccess.wav",
+        "source": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\src\\main\\res\\raw\\opersuccess.wav"
+    },
+    {
+        "merged": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\build\\intermediates\\res\\merged\\debug\\raw\\initdb.db",
+        "source": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\src\\main\\res\\raw\\initdb.db"
+    }
+]

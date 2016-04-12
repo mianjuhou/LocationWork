@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="transparent">#00000000</color>
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+    <color name="btntxt_default">#c6c6c6</color>
+    <color name="btntxt_focus">#ffffff</color>
+    <color name="horizonline_color">#d2d2d2</color>
+    <color name="basetxt_color">#575c63</color>
+    <color name="out_status_color">#f3796d</color>
+    <color name="in_status_color">#93cc7a</color>
+    <color name="about_darkgrey">#848484</color>
+    <color name="gray">#cccccc</color>
+
+    <!-- 通用 -->
+    <color name="list_itemtext_tipscolor">#9A9A9A</color>
+    <color name="list_itemtext_color">#292c25</color>
+
+    <!-- 头部 -->
+    <color name="headerbg_color">#232325</color>
+    <!-- 头部颜色-->
+    <color name="headerbg_color_people">#aa4095ff</color>
+    <!-- 首页 -->
+    <color name="homebg_color">#f7f7f7</color>
+    <color name="home_item_textcolor">#69615f</color>
+    <!-- 作业工单 -->
+    <color name="woinfo_topbg_color">#c6c6c6</color>
+    <color name="woinfo_topline_color">#aeaeae</color>
+    <color name="woinfo_footerbg_color">#e9e9e9</color>
+
+    <!-- 工单列表 -->
+    <color name="wolist_toptips_color">#536981</color>
+    <color name="wolist_topbg_color">#CCCCCC</color>
+    <color name="wolist_btntext_color">#64a3ff</color>
+    <!-- 交接 -->
+    <color name="handover_line_red">#ff0000</color>
+    <!-- 扫描的颜色 -->
+    <color name="viewfinder_mask">#60000000</color>
+    <color name="result_view">#b0000000</color>
+    <color name="viewfinder_frame">#2477ab</color>
+    <color name="possible_result_points">#c0ffff00</color>
+    <color name="hint_font2">#9A9A9A</color>
+    <color name="bg_gray">#f0f0f0</color>
+    
+    
+      <color name="black2">#ffeeeeee</color>
+    
+    <!--   扫描的颜色 
+    <color name="viewfinder_mask">#60000000</color>
+    <color name="result_view">#b0000000</color>
+    <color name="viewfinder_frame">#2477ab</color>
+    <color name="possible_result_points">#c0ffff00</color>  -->
+
+	<!--  -->
+	<color name="false_editable">#5B9BD5</color>
+</resources>

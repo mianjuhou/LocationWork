@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\build\\intermediates\\res\\merged\\debug\\menu\\turnout_check2.xml",
+        "source": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\src\\main\\res\\menu\\turnout_check2.xml"
+    },
+    {
+        "merged": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\build\\intermediates\\res\\merged\\debug\\menu\\turnout_check.xml",
+        "source": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\src\\main\\res\\menu\\turnout_check.xml"
+    },
+    {
+        "merged": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\build\\intermediates\\res\\merged\\debug\\menu\\question_input.xml",
+        "source": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\src\\main\\res\\menu\\question_input.xml"
+    },
+    {
+        "merged": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\build\\intermediates\\res\\merged\\debug\\menu\\line_curve_check.xml",
+        "source": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\src\\main\\res\\menu\\line_curve_check.xml"
+    },
+    {
+        "merged": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\build\\intermediates\\res\\merged\\debug\\menu\\turnout_list.xml",
+        "source": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\src\\main\\res\\menu\\turnout_list.xml"
+    },
+    {
+        "merged": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\build\\intermediates\\res\\merged\\debug\\menu\\curve_list.xml",
+        "source": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\src\\main\\res\\menu\\curve_list.xml"
+    },
+    {
+        "merged": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\build\\intermediates\\res\\merged\\debug\\menu\\question_turnout.xml",
+        "source": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\src\\main\\res\\menu\\question_turnout.xml"
+    },
+    {
+        "merged": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\build\\intermediates\\res\\merged\\debug\\menu\\line_curve.xml",
+        "source": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\src\\main\\res\\menu\\line_curve.xml"
+    },
+    {
+        "merged": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\build\\intermediates\\res\\merged\\debug\\menu\\static_check.xml",
+        "source": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\src\\main\\res\\menu\\static_check.xml"
+    },
+    {
+        "merged": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\build\\intermediates\\res\\merged\\debug\\menu\\class_select.xml",
+        "source": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\src\\main\\res\\menu\\class_select.xml"
+    },
+    {
+        "merged": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\src\\main\\res\\menu\\main.xml"
+    }
+]

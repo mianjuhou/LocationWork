@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/LocationWork.iml" filepath="$PROJECT_DIR$/LocationWork.iml" />
+      <module fileurl="file://$PROJECT_DIR$/librarybaseui/librarybaseui.iml" filepath="$PROJECT_DIR$/librarybaseui/librarybaseui.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libraryface/libraryface.iml" filepath="$PROJECT_DIR$/libraryface/libraryface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libraryloadigindicator/libraryloadigindicator.iml" filepath="$PROJECT_DIR$/libraryloadigindicator/libraryloadigindicator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libraryzxing/libraryzxing.iml" filepath="$PROJECT_DIR$/libraryzxing/libraryzxing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libstreaming/libstreaming.iml" filepath="$PROJECT_DIR$/libstreaming/libstreaming.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libvitamiocamer/libvitamiocamer.iml" filepath="$PROJECT_DIR$/libvitamiocamer/libvitamiocamer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/location/location.iml" filepath="$PROJECT_DIR$/location/location.iml" />
+    </modules>
+  </component>
+</project>

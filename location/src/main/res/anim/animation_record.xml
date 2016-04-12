@@ -1,0 +1,5 @@
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android" android:oneshot="false">
+  <item android:drawable="@drawable/icon_btn_record1" android:duration="200" /> 
+  <item android:drawable="@drawable/icon_btn_record2" android:duration="200" /> 
+  <item android:drawable="@drawable/icon_btn_record3" android:duration="200" /> 
+</animation-list>

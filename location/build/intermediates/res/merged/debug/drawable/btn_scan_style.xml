@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+       <!-- pressed 点击 -->
+    <item android:state_pressed="true"><shape android:shape="rectangle">
+            <gradient android:angle="270" android:endColor="#d8d8d8" android:startColor="#ffffff" />
+
+            <stroke android:width="0.5dp" android:color="#adadad" />
+            <!-- 描边 -->
+             <padding android:bottom="10dp" android:left="5dp" android:right="5dp" android:top="10dp" />
+            <corners android:radius="5dip" />
+        </shape></item>
+
+    <!-- focus 获得焦点 -->
+    <item android:state_focused="true"><shape>
+
+            <!-- 渐变 -->
+            <gradient android:angle="270" android:endColor="#d8d8d8" android:startColor="#ffffff" />
+            <!-- 描边 -->
+            <stroke android:width="0.5dp" android:color="#adadad" />
+            <!-- 圆角 -->
+            <corners android:radius="5dip" />
+             <padding android:bottom="10dp" android:left="5dp" android:right="5dp" android:top="10dp" />
+        </shape></item>
+    
+    
+    
+    <!-- default -->
+    <item><shape>
+
+            <!-- 渐变 -->
+            <!-- <gradient android:angle="270" android:endColor="#740c0c" android:startColor="#b80405" /> -->
+            <gradient android:angle="270" android:endColor="#FF0000" android:startColor="#FF6060" />
+
+            <stroke android:width="0.5dp" android:color="#adadad" />
+
+            <!-- 圆角 -->
+            <corners android:radius="5dp" />
+
+            <padding android:bottom="10dp" android:left="5dp" android:right="5dp" android:top="10dp" />
+        </shape></item>
+
+</selector>

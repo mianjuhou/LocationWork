@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\libvitamiocamer\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\sel_enable_red_blue.xml",
+        "source": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\libvitamiocamer\\build\\intermediates\\bundles\\debug\\res\\drawable\\sel_enable_red_blue.xml"
+    },
+    {
+        "merged": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\libvitamiocamer\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\sel_status.xml",
+        "source": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\libvitamiocamer\\build\\intermediates\\bundles\\debug\\res\\drawable\\sel_status.xml"
+    },
+    {
+        "merged": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\libvitamiocamer\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\record_camera_flash_led_selector.xml",
+        "source": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\libvitamiocamer\\build\\intermediates\\bundles\\debug\\res\\drawable\\record_camera_flash_led_selector.xml"
+    },
+    {
+        "merged": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\libvitamiocamer\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\record_camera_switch_selector.xml",
+        "source": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\libvitamiocamer\\build\\intermediates\\bundles\\debug\\res\\drawable\\record_camera_switch_selector.xml"
+    },
+    {
+        "merged": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\libvitamiocamer\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\record_cancel_seletor.xml",
+        "source": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\libvitamiocamer\\build\\intermediates\\bundles\\debug\\res\\drawable\\record_cancel_seletor.xml"
+    },
+    {
+        "merged": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\libvitamiocamer\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\sel_touch.xml",
+        "source": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\libvitamiocamer\\build\\intermediates\\bundles\\debug\\res\\drawable\\sel_touch.xml"
+    },
+    {
+        "merged": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\libvitamiocamer\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\record_save_sel.xml",
+        "source": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\libvitamiocamer\\build\\intermediates\\bundles\\debug\\res\\drawable\\record_save_sel.xml"
+    },
+    {
+        "merged": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\libvitamiocamer\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\record_delete_selector.xml",
+        "source": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\libvitamiocamer\\build\\intermediates\\bundles\\debug\\res\\drawable\\record_delete_selector.xml"
+    }
+]

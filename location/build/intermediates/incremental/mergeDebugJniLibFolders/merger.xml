@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\jniLibs"><file name="armeabi/libtencentloc.so" path="D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\jniLibs\armeabi\libtencentloc.so"/></source></dataSet><dataSet config="debug"><source path="D:\WorkspaceAndroid\Studio03\LocationWork\location\src\debug\jniLibs"/></dataSet></merger>

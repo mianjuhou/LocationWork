@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/bg_gray"
+    android:orientation="vertical" >
+
+    <com.jtv.base.ui.ReboundScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <LinearLayout
+            xmlns:android="http://schemas.android.com/apk/res/android"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical" >
+
+            <LinearLayout
+                android:layout_marginTop="10dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical" >
+
+                <GridLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:columnCount="2"
+                    android:rowCount="4" >
+
+                    <TextView
+                        android:id="@+id/tv_departlevel_tips"
+                        android:layout_gravity="center_vertical"
+                        android:layout_margin="7dp"
+                        android:text="@string/set_departlevel_tips"
+                        android:textSize="@dimen/basetips_size"
+                        android:visibility="gone" />
+
+                    <TextView
+                        android:id="@+id/tv_departlevel"
+                        android:layout_width="wrap_content"
+                        android:layout_gravity="fill"
+                        android:layout_margin="7dp"
+                        android:gravity="fill"
+                        android:visibility="gone" />
+
+                    <TextView
+                        android:id="@+id/tv_depotlevel_tips"
+                        android:layout_gravity="center_vertical"
+                        android:layout_margin="7dp"
+                        android:text="@string/set_depotlevel_tips"
+                        android:textSize="@dimen/basetips_size" />
+
+                    <TextView
+                        android:id="@+id/tv_duan"
+                        android:layout_width="wrap_content"
+                        android:layout_gravity="fill_horizontal|fill_vertical"
+                        android:layout_margin="7dp"
+                        android:gravity="fill" />
+
+                    <TextView
+                        android:id="@+id/tv_workshop_tips"
+                        android:layout_gravity="center_vertical"
+                        android:layout_margin="7dp"
+                        android:text="@string/set_workshop_tips"
+                        android:textSize="@dimen/basetips_size" />
+
+                    <TextView
+                        android:id="@+id/tv_workshop"
+                        android:layout_width="wrap_content"
+                        android:layout_gravity="fill_horizontal|fill_vertical"
+                        android:layout_margin="7dp"
+                        android:gravity="fill" />
+
+                    <TextView
+                        android:id="@+id/tv_workarea_tips"
+                        android:layout_gravity="center_vertical"
+                        android:layout_margin="7dp"
+                        android:text="@string/set_workarea_tips"
+                        android:textSize="@dimen/basetips_size" />
+
+                    <TextView
+                        android:id="@+id/tv_workarea"
+                        android:layout_width="wrap_content"
+                        android:layout_gravity="fill_horizontal|fill_vertical"
+                        android:layout_margin="7dp"
+                        android:gravity="fill" />
+
+                    <TextView
+                        android:id="@+id/leadperson_tv"
+                        android:layout_gravity="center_vertical"
+                        android:layout_margin="7dp"
+                        android:text="@string/wa_outpeople"
+                        android:textSize="@dimen/basetips_size" />
+
+                    <TextView
+                        android:id="@+id/tv_lead"
+                        android:layout_width="wrap_content"
+                        android:layout_gravity="fill_horizontal|fill_vertical"
+                        android:layout_margin="7dp"
+                        android:gravity="fill" />
+                </GridLayout>
+            </LinearLayout>
+
+            <!-- 机器码 -->
+
+            <RelativeLayout
+                style="@style/item_view_style"
+                android:layout_marginTop="15dp"
+                android:background="@drawable/selector_item_pressgray_upwhite" >
+
+                <TextView
+                    android:id="@+id/tv_machine_code"
+                    style="@style/item_tv_title_style"
+                    android:drawableLeft="@drawable/my_coupon"
+                    android:drawablePadding="10dp"
+                    android:text="机器码" />
+
+                <ImageView style="@style/item_arrow_style" />
+            </RelativeLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="0.5dp"
+                android:padding="10dp" >
+
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="0.3dp"
+                    android:background="@color/bg_gray" />
+            </LinearLayout>
+
+            <RelativeLayout
+                android:id="@+id/rl_vewsion_update"
+                style="@style/item_view_style"
+                android:background="@drawable/selector_item_pressgray_upwhite" >
+
+                <TextView
+                    android:id="@+id/tv_about_version"
+                    style="@style/item_tv_title_style"
+                    android:drawableLeft="@drawable/my_coupon"
+                    android:drawablePadding="10dp"
+                    android:singleLine="true"
+                    android:gravity="center"
+                    android:text="版本" />
+
+                <ImageView style="@style/item_arrow_style" />
+            </RelativeLayout>
+
+            <RelativeLayout
+                style="@style/item_view_style"
+                android:layout_marginTop="7dp"
+                android:background="@drawable/selector_item_pressgray_upwhite" >
+
+                <TextView
+                    android:id="@+id/tv_ip"
+                    style="@style/item_tv_title_style"
+                    android:drawableLeft="@drawable/my_coupon"
+                    android:drawablePadding="10dp"
+                    android:text="服务端" />
+
+                <ImageView style="@style/item_arrow_style" />
+            </RelativeLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="0.5dp"
+                android:padding="10dp" >
+
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="0.3dp"
+                    android:background="@color/bg_gray" />
+            </LinearLayout>
+
+            <RelativeLayout
+                style="@style/item_view_style"
+                android:background="@drawable/selector_item_pressgray_upwhite" >
+
+                <TextView
+                    android:id="@+id/tv_session"
+                    style="@style/item_tv_title_style"
+                    android:drawableLeft="@drawable/my_coupon"
+                    android:drawablePadding="10dp"
+                    android:text="@string/dis_tv_session_socket" />
+
+                <ImageView style="@style/item_arrow_style" />
+            </RelativeLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="0.5dp"
+                android:padding="10dp" >
+
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="0.3dp"
+                    android:background="@color/bg_gray" />
+            </LinearLayout>
+
+            <RelativeLayout
+                style="@style/item_view_style"
+                android:background="@drawable/selector_item_pressgray_upwhite" >
+
+                <TextView
+                    android:id="@+id/tv_video_ip"
+                    style="@style/item_tv_title_style"
+                    android:drawableLeft="@drawable/my_coupon"
+                    android:drawablePadding="10dp"
+                    android:text="@string/dis_tv_rtsp_socket" />
+
+                <ImageView style="@style/item_arrow_style" />
+            </RelativeLayout>
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:orientation="horizontal"
+                android:visibility="gone" >
+
+                <TextView
+                    style="@style/wolist_toptext_style"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/show_delete_db"
+                    android:textSize="@dimen/basetips_size" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="right"
+                    android:textSize="@dimen/basetips_size" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="0.5dp"
+                android:padding="10dp" >
+
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="0.3dp"
+                    android:background="@color/bg_gray" />
+            </LinearLayout>
+
+            <RelativeLayout
+                android:id="@+id/rl_db"
+                style="@style/item_view_style"
+                android:layout_marginTop="7dp"
+                android:background="@drawable/selector_item_pressgray_upwhite" >
+
+                <TextView
+                    style="@style/item_tv_title_style"
+                    android:drawableLeft="@drawable/my_coupon"
+                    android:drawablePadding="10dp"
+                    android:text="@string/init_db" />
+
+                <ImageView style="@style/item_arrow_style" />
+            </RelativeLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="0.5dp"
+                android:padding="10dp" >
+
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="0.3dp"
+                    android:background="@color/bg_gray" />
+            </LinearLayout>
+
+            <RelativeLayout
+                android:id="@+id/rl_facedata"
+                style="@style/item_view_style"
+                android:background="@drawable/selector_item_pressgray_upwhite" >
+
+                <TextView
+                    style="@style/item_tv_title_style"
+                    android:drawableLeft="@drawable/my_coupon"
+                    android:drawablePadding="10dp"
+                    android:text="@string/dis_tv_down_facedata" />
+
+                <ImageView style="@style/item_arrow_style" />
+            </RelativeLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="0.5dp"
+                android:padding="10dp" >
+
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="0.3dp"
+                    android:background="@color/bg_gray" />
+            </LinearLayout>
+
+            <RelativeLayout
+                android:id="@+id/rl_download_face_so"
+                style="@style/item_view_style"
+                android:background="@drawable/selector_item_pressgray_upwhite" >
+
+                <TextView
+                    style="@style/item_tv_title_style"
+                    android:drawableLeft="@drawable/my_coupon"
+                    android:drawablePadding="10dp"
+                    android:text="@string/dis_download_so_face" />
+
+                <ImageView style="@style/item_arrow_style" />
+            </RelativeLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="0.5dp"
+                android:padding="10dp" >
+
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="0.3dp"
+                    android:background="@color/bg_gray" />
+            </LinearLayout>
+
+            <RelativeLayout
+                android:id="@+id/rl_photo_quality"
+                style="@style/item_view_style"
+                android:layout_marginTop="7dp"
+                android:background="@drawable/selector_item_pressgray_upwhite" >
+
+                <TextView
+                    android:id="@+id/tv_photo_quality"
+                    style="@style/item_tv_title_style"
+                    android:drawableLeft="@drawable/my_coupon"
+                    android:drawablePadding="10dp"
+                    android:text="@string/dis_tv_photo_quality" />
+
+                <ImageView style="@style/item_arrow_style" />
+            </RelativeLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="0.5dp"
+                android:padding="10dp" >
+
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="0.3dp"
+                    android:background="@color/bg_gray" />
+            </LinearLayout>
+
+            <RelativeLayout
+                android:id="@+id/rl_photo_size"
+                style="@style/item_view_style"
+                android:background="@drawable/selector_item_pressgray_upwhite" >
+
+                <TextView
+                    android:id="@+id/tv_photo_size"
+                    style="@style/item_tv_title_style"
+                    android:drawableLeft="@drawable/my_coupon"
+                    android:drawablePadding="10dp"
+                    android:text="@string/dis_tv_photo_size" />
+
+                <ImageView style="@style/item_arrow_style" />
+            </RelativeLayout>
+        </LinearLayout>
+    </com.jtv.base.ui.ReboundScrollView>
+
+</LinearLayout>

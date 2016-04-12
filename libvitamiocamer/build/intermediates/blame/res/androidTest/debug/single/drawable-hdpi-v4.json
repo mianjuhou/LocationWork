@@ -1,0 +1,102 @@
+[
+    {
+        "merged": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\libvitamiocamer\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\ic_start.png",
+        "source": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\libvitamiocamer\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\ic_start.png"
+    },
+    {
+        "merged": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\libvitamiocamer\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\record_camera_flash_led_off_normal.png",
+        "source": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\libvitamiocamer\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\record_camera_flash_led_off_normal.png"
+    },
+    {
+        "merged": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\libvitamiocamer\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\record_camera_switch_normal.png",
+        "source": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\libvitamiocamer\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\record_camera_switch_normal.png"
+    },
+    {
+        "merged": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\libvitamiocamer\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\record_camera_flash_led_on_pressed.png",
+        "source": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\libvitamiocamer\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\record_camera_flash_led_on_pressed.png"
+    },
+    {
+        "merged": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\libvitamiocamer\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\record_delete_check_normal.png",
+        "source": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\libvitamiocamer\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\record_delete_check_normal.png"
+    },
+    {
+        "merged": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\libvitamiocamer\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\record_camera_switch_pressed.png",
+        "source": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\libvitamiocamer\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\record_camera_switch_pressed.png"
+    },
+    {
+        "merged": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\libvitamiocamer\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\record_camera_flash_led_on_normal.png",
+        "source": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\libvitamiocamer\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\record_camera_flash_led_on_normal.png"
+    },
+    {
+        "merged": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\libvitamiocamer\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\ic_status_pass.png",
+        "source": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\libvitamiocamer\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\ic_status_pass.png"
+    },
+    {
+        "merged": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\libvitamiocamer\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\ic_save.png",
+        "source": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\libvitamiocamer\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\ic_save.png"
+    },
+    {
+        "merged": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\libvitamiocamer\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\record_camera_flash_led_off_disable.png",
+        "source": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\libvitamiocamer\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\record_camera_flash_led_off_disable.png"
+    },
+    {
+        "merged": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\libvitamiocamer\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\video_focus.png",
+        "source": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\libvitamiocamer\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\video_focus.png"
+    },
+    {
+        "merged": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\libvitamiocamer\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\record_delete_normal.png",
+        "source": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\libvitamiocamer\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\record_delete_normal.png"
+    },
+    {
+        "merged": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\libvitamiocamer\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\record_camera_switch_disable.png",
+        "source": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\libvitamiocamer\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\record_camera_switch_disable.png"
+    },
+    {
+        "merged": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\libvitamiocamer\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\record_cancel_normal.png",
+        "source": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\libvitamiocamer\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\record_cancel_normal.png"
+    },
+    {
+        "merged": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\libvitamiocamer\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\ic_press.png",
+        "source": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\libvitamiocamer\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\ic_press.png"
+    },
+    {
+        "merged": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\libvitamiocamer\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\libvitamiocamer\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\libvitamiocamer\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\record_delete_press.png",
+        "source": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\libvitamiocamer\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\record_delete_press.png"
+    },
+    {
+        "merged": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\libvitamiocamer\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\record_camera_flash_led_on_disable.png",
+        "source": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\libvitamiocamer\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\record_camera_flash_led_on_disable.png"
+    },
+    {
+        "merged": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\libvitamiocamer\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\record_camera_flash_led_off_pressed.png",
+        "source": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\libvitamiocamer\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\record_camera_flash_led_off_pressed.png"
+    },
+    {
+        "merged": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\libvitamiocamer\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\ic_status_wait.png",
+        "source": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\libvitamiocamer\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\ic_status_wait.png"
+    },
+    {
+        "merged": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\libvitamiocamer\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\ic_save_pres.png",
+        "source": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\libvitamiocamer\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\ic_save_pres.png"
+    },
+    {
+        "merged": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\libvitamiocamer\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\ic_default.png",
+        "source": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\libvitamiocamer\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\ic_default.png"
+    },
+    {
+        "merged": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\libvitamiocamer\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\ic_status_starting.png",
+        "source": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\libvitamiocamer\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\ic_status_starting.png"
+    },
+    {
+        "merged": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\libvitamiocamer\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\record_cancel_press.png",
+        "source": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\libvitamiocamer\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\record_cancel_press.png"
+    },
+    {
+        "merged": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\libvitamiocamer\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\record_delete_check_press.png",
+        "source": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\libvitamiocamer\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\record_delete_check_press.png"
+    }
+]

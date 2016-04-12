@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\libraryloadigindicator\\build\\intermediates\\res\\merged\\androidTest\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 1320,
+                    "endColumn": 44,
+                    "endOffset": 1360
+                },
+                "from": {
+                    "file": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\libraryloadigindicator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 1320,
+                        "endColumn": 44,
+                        "endOffset": 1360
+                    }
+                }
+            }
+        ]
+    }
+]

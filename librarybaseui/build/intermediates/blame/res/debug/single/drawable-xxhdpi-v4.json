@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\librarybaseui\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_arrow_drop_down_black_24dp.png",
+        "source": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\librarybaseui\\src\\main\\res\\drawable-xxhdpi\\ic_arrow_drop_down_black_24dp.png"
+    },
+    {
+        "merged": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\librarybaseui\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_launcher.png",
+        "source": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\librarybaseui\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\librarybaseui\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\shadow_background.9.png",
+        "source": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\librarybaseui\\src\\main\\res\\drawable-xxhdpi\\shadow_background.9.png"
+    }
+]

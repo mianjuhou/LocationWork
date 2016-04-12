@@ -1,0 +1,396 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.jtv.hrb.locationwork"
+    android:versionCode="13"
+    android:versionName="2.3" >
+
+    <uses-sdk
+        android:minSdkVersion="14"
+        android:targetSdkVersion="23" />
+
+    <!--
+    <instrumentation
+        android:name="android.test.InstrumentationTestRunner"
+        android:label="Test Sqlite"
+        android:targetPackage="com.jtv.locationtrack" >
+    </instrumentation>
+    -->
+
+    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-permission android:name="android.permission.GET_TASKS" />
+    <!-- 添加sdcard权限 -->
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <!-- 權限 : GPS定位 -->
+    <!-- <uses-permission android:name="android.permission.ACCESS_MOCK_LOCATION" /> -->
+    <uses-permission android:name="android.permission.ACCESS_LOCATION_EXTRA_COMMANDS" />
+    <!-- 通过GPS得到精确位置 -->
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <!-- 通过网络得到粗略位置 -->
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <!-- 访问网络. 某些位置信息需要从网络服务器获取 -->
+    <uses-permission android:name="android.permission.INTERNET" />
+    <!-- 访问WiFi状态. 需要WiFi信息用于网络定位 -->
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <!-- 修改WiFi状态. 发起WiFi扫描, 需要WiFi信息用于网络定位 -->
+    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
+    <!-- 访问网络状态, 检测网络的可用性. 需要网络运营商相关信息用于网络定位 -->
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <!-- 访问网络的变化, 需要某些信息用于网络定位 -->
+    <uses-permission android:name="android.permission.CHANGE_NETWORK_STATE" />
+    <!-- 访问手机当前状态, 需要某些信息用于网络定位 -->
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+
+    <!-- 腾讯地图api -->
+    <uses-permission android:name="android.permission.CALL_PHONE" >
+    </uses-permission>
+    <uses-permission android:name="android.permission.DISABLE_KEYGUARD" />
+    <uses-permission android:name="android.permission.GET_PACKAGE_SIZE" />
+    <uses-permission android:name="android.permission.READ_LOGS" />
+    <uses-permission android:name="android.permission.CHANGE_CONFIGURATION" />
+    <uses-permission android:name="android.permission.WRITE_SETTINGS" />
+
+    <!-- 腾讯定位 sdk 要求的权限  (开始) -->
+    <!-- 通过GPS得到精确位置 -->
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <!-- 通过网络得到粗略位置 -->
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <!-- 访问网络. 某些位置信息需要从网络服务器获取 -->
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <!-- 修改WiFi状态. 发起WiFi扫描, 需要WiFi信息用于网络定位 -->
+    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
+    <!-- 访问网络状态, 检测网络的可用性. 需要网络运营商相关信息用于网络定位 -->
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <!-- 访问网络的变化, 需要某些信息用于网络定位 -->
+    <uses-permission android:name="android.permission.CHANGE_NETWORK_STATE" />
+    <!-- 访问手机当前状态, 需要device id用于网络定位 -->
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <!-- 腾讯定位 sdk 要求的权限 (结束) -->
+
+
+    <!-- Demo中使用了腾讯地图 sdk, 腾讯地图 sdk 还要求的以下权限 -->
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.READ_PHONE_SINTERNETWIFI_STATE" />
+    <uses-permission android:name="android.permission.CALL_PHONE" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <!-- 非必须权限, 用于记录 log -->
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <!-- 非必须权限, 用于 notification 振动 -->
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-permission android:name="android.permission.MOUNT_UNMOUNT_FILESYSTEMS" />
+    <uses-permission android:name="android.permission.CAMERA" />
+
+    <uses-feature
+        android:name="android.hardware.camera"
+        android:required="true" />
+    <uses-feature
+        android:name="android.hardware.camera.autofocus"
+        android:required="true" />
+    <uses-feature
+        android:glEsVersion="0x00020000"
+        android:required="true" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.Manifest.permission.VIBRATE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+
+    <application
+        android:name="com.jtv.hrb.locationwork.GlobalApplication"
+        android:allowBackup="true"
+        android:configChanges="orientation|keyboardHidden"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:screenOrientation="portrait"
+        android:theme="@style/AppTheme" >
+
+        <!-- 腾讯地图定位的识别码 -->
+        <meta-data
+            android:name="TencentMapSDK"
+            android:value="AOWBZ-UJGH4-5TIU3-DNJMT-AQGHQ-HPFML" />
+
+        <!-- 欢迎界面 -->
+        <activity
+            android:name="com.jtv.locationwork.activity.SplashAty"
+            android:label="@string/app_name"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.jtv.hrb.locationwork.LineCurveCheckActivity"
+            android:label="@string/title_activity_line_curve_check"
+            android:windowSoftInputMode="stateHidden" >
+        </activity>
+
+        <!-- 画板 -->
+        <activity
+            android:name="com.jtv.locationwork.activity.PainterAty"
+            android:screenOrientation="portrait" >
+        </activity>
+
+        <!-- 工单详情 -->
+        <activity
+            android:name="com.jtv.locationwork.activity.GdxqActivity"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustUnspecified|stateHidden" >
+        </activity>
+
+        <!-- 工具扫描 -->
+        <activity
+            android:name="com.jtv.locationwork.activity.QueryToolAty"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustUnspecified|stateHidden" >
+        </activity>
+
+        <!-- 下载文件 -->
+        <activity
+            android:name="com.jtv.locationwork.activity.FileManagerAty"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustUnspecified|stateHidden" >
+        </activity>
+
+        <!-- 查看图片 -->
+        <activity
+            android:name="com.jtv.locationwork.activity.PhotoAty"
+            android:configChanges="orientation|keyboardHidden"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustUnspecified|stateHidden" >
+        </activity>
+
+        <!-- 跳转到二维码扫描 -->
+        <activity
+            android:name="com.plutus.libraryzxing.ErcodeScanActivity"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustUnspecified|stateHidden" >
+        </activity>
+
+        <!-- 地图 -->
+        <activity
+            android:name="com.jtv.locationwork.activity.MapAty"
+            android:screenOrientation="portrait" >
+        </activity>
+
+        <!-- 交接fragment -->
+        <activity
+            android:name="com.jtv.locationwork.activity.WorkHandOverTabAty"
+            android:screenOrientation="portrait" >
+        </activity>
+
+        <!-- 拍照图库 -->
+        <activity
+            android:name="com.jtv.locationwork.activity.WoNumTakePhoto"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustUnspecified|stateHidden" >
+        </activity>
+
+        <!-- 查看一考勤人员列表 -->
+        <activity
+            android:name="com.jtv.locationwork.activity.CacheAty"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustUnspecified|stateHidden" >
+        </activity>
+        <!-- <activity android:name="com.jtv.android.common.activity.CommonUpdater" /> -->
+        <!-- 视频播放页面 -->
+        <activity
+            android:name="com.jtv.locationwork.activity.VideoPlayerAty"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustUnspecified|stateHidden" >
+        </activity>
+
+        <!-- 文件上传的界面 -->
+        <activity
+            android:name="com.jtv.locationwork.activity.FileChoose"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustUnspecified|stateHidden" >
+        </activity>
+
+        <!-- 实时视频 -->
+        <activity
+            android:name="com.jtv.locationwork.activity.RtspVideoAty"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustUnspecified|stateHidden" >
+        </activity>
+
+        <!-- 考勤拍照 -->
+        <activity
+            android:name="com.jtv.locationwork.activity.TakePhotoAty"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustUnspecified|stateHidden" >
+        </activity>
+
+        <!-- 测试界面 -->
+        <activity
+            android:name="com.jtv.locationwork.activity.DepartSeting"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustUnspecified|stateHidden" >
+        </activity>
+
+        <!-- 考勤视频 -->
+        <activity
+            android:name="com.jtv.locationwork.activity.TakeVideoAlbum"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustUnspecified|stateHidden" >
+        </activity>
+
+        <!-- gps坐标获取服务 -->
+        <service
+            android:name="com.jtv.locationwork.services.GpsServices"
+            android:label="LocationGps服务" />
+
+        <!-- 获取整个车间下面的工单 -->
+        <activity
+            android:name="com.jtv.locationwork.activity.StationWonumAty"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustUnspecified|stateHidden" >
+        </activity>
+
+        <!-- dialog过滤树选择 -->
+        <activity
+            android:name="com.jtv.locationwork.activity.PhotoTreeAty"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar"
+            android:windowSoftInputMode="adjustUnspecified|stateHidden" >
+        </activity>
+
+        <!-- 弹出日期 -->
+        <activity
+            android:name="com.jtv.base.activity.BaseCalenderAty"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustUnspecified|stateHidden" >
+        </activity>
+
+        <!-- 首页的fragment -->
+        <activity
+            android:name="com.jtv.locationwork.activity.HomeFragment"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustUnspecified|stateHidden" >
+        </activity>
+
+        <!-- 检查问题 -->
+        <activity
+            android:name="com.jtv.locationwork.activity.CheckAty"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustUnspecified|stateHidden" >
+        </activity>
+
+        <!-- 相册 -->
+        <activity
+            android:name="com.jtv.locationwork.activity.PreviewDCIMAty"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustUnspecified|stateHidden" >
+        </activity>
+
+        <!-- 视频录制 -->
+        <activity
+            android:name="com.jtv.video.recorder.activity.RecordVideoAty"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustUnspecified|stateHidden" >
+        </activity>
+
+        <!-- 人员录制 -->
+        <activity
+            android:name="com.jtv.locationwork.activity.FaceAty"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustUnspecified|stateHidden" >
+        </activity>
+
+        <!-- 查看问题 -->
+        <activity
+            android:name="com.jtv.locationwork.activity.CheckCacheAty"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustUnspecified|stateHidden" >
+        </activity>
+
+        <!-- 后台文件下载服务 -->
+        <service
+            android:name="com.jtv.locationwork.services.DownLoadHttpServices"
+            android:label="下载" />
+
+        <!-- 开机广播 -->
+        <receiver android:name="com.jtv.locationwork.receiver.BootCompletedReceiver" >
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED" />
+
+                <!-- <category android:name="android.intent.category.LAUNCHER" /> -->
+            </intent-filter>
+        </receiver>
+
+        <activity
+            android:name="com.jtv.locationwork.activity.ClassSelectActivity"
+            android:label="@string/title_activity_class_select" >
+        </activity>
+        <activity
+            android:name="com.jtv.hrb.locationwork.StaticCheckActivity"
+            android:label="@string/title_activity_static_check" >
+        </activity>
+        <activity android:name="com.jtv.locationwork.activity.StationWonumAty2" >
+        </activity>
+        <activity android:name="com.jtv.locationwork.activity.GdxqActivity2" >
+        </activity>
+        <activity
+            android:name="com.jtv.hrb.locationwork.TurnoutCheckActivity"
+            android:label="@string/title_activity_turnout_check"
+            android:windowSoftInputMode="stateHidden" >
+        </activity>
+        <activity
+            android:name="com.jtv.hrb.locationwork.LineCurveCheckActivity2"
+            android:windowSoftInputMode="stateHidden" >
+        </activity>
+        <activity
+            android:name="com.jtv.hrb.locationwork.TurnoutListActivity"
+            android:label="@string/title_activity_turnout_list" >
+        </activity>
+        <activity
+            android:name="com.jtv.locationwork.activity.RequestPermissionAty"
+            android:configChanges="keyboardHidden|screenSize"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustUnspecified|stateHidden" >
+        </activity>
+        <activity
+            android:name="com.jtv.hrb.locationwork.CurveListActivity"
+            android:label="@string/title_activity_curve_list" >
+        </activity>
+        <activity
+            android:name="com.jtv.hrb.locationwork.TurnoutCheck2Activity"
+            android:label="@string/title_activity_turnout_check2"
+            android:windowSoftInputMode="stateHidden" >
+        </activity>
+        <activity
+            android:name="com.jtv.hrb.locationwork.QuestionInputActivity"
+            android:label="@string/title_activity_question_input" >
+        </activity>
+        <activity
+            android:name="com.jtv.hrb.locationwork.QuestionTurnoutActivity"
+            android:label="@string/title_activity_question_turnout" >
+        </activity>
+        <activity
+            android:name="com.plutus.libraryzxing.MainActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

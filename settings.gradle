@@ -1,0 +1,7 @@
+include ':librarybaseui'
+include ':libraryface'
+include ':libraryloadigindicator'
+include ':libraryzxing'
+include ':libstreaming'
+include ':libvitamiocamer'
+include ':location'

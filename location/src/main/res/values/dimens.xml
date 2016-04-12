@@ -1,0 +1,25 @@
+<resources>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="header_title_size">24sp</dimen>
+    <dimen name="basetips_size">18sp</dimen>
+	<dimen name="gd_item_size">20sp</dimen>
+	<dimen name="sp_item_size">17sp</dimen>
+	<!-- 基础 -->
+	<dimen name="baseitem_text_tips_size">16sp</dimen>
+	<dimen name="baseitem_text_size">20sp</dimen>
+	<dimen name="basefootertips_size">16sp</dimen>
+	
+	<!-- 工单列表 -->
+	<dimen name="wolist_toptips_size">16sp</dimen>
+	<!-- 浏览图片 -->
+	<dimen name="disimg_btntexttips_size">20sp</dimen>
+	
+	<!-- 问题检查字体 -->
+	<dimen name="title_size">20sp</dimen>
+	<dimen name="big_size">20sp</dimen>
+	<dimen name="midle_size">16sp</dimen>
+	<dimen name="little_size">12sp</dimen>
+</resources>

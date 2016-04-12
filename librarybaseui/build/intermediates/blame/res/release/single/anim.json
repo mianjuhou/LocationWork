@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\librarybaseui\\build\\intermediates\\res\\merged\\release\\anim\\push_bottom_in_1.xml",
+        "source": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\librarybaseui\\src\\main\\res\\anim\\push_bottom_in_1.xml"
+    },
+    {
+        "merged": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\librarybaseui\\build\\intermediates\\res\\merged\\release\\anim\\snackbar_show_animation.xml",
+        "source": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\librarybaseui\\src\\main\\res\\anim\\snackbar_show_animation.xml"
+    },
+    {
+        "merged": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\librarybaseui\\build\\intermediates\\res\\merged\\release\\anim\\progress_roate_animation.xml",
+        "source": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\librarybaseui\\src\\main\\res\\anim\\progress_roate_animation.xml"
+    },
+    {
+        "merged": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\librarybaseui\\build\\intermediates\\res\\merged\\release\\anim\\anim_rotate_shape_progressbar_bg.xml",
+        "source": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\librarybaseui\\src\\main\\res\\anim\\anim_rotate_shape_progressbar_bg.xml"
+    },
+    {
+        "merged": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\librarybaseui\\build\\intermediates\\res\\merged\\release\\anim\\push_right_out.xml",
+        "source": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\librarybaseui\\src\\main\\res\\anim\\push_right_out.xml"
+    },
+    {
+        "merged": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\librarybaseui\\build\\intermediates\\res\\merged\\release\\anim\\push_left_in.xml",
+        "source": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\librarybaseui\\src\\main\\res\\anim\\push_left_in.xml"
+    },
+    {
+        "merged": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\librarybaseui\\build\\intermediates\\res\\merged\\release\\anim\\push_right_in.xml",
+        "source": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\librarybaseui\\src\\main\\res\\anim\\push_right_in.xml"
+    },
+    {
+        "merged": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\librarybaseui\\build\\intermediates\\res\\merged\\release\\anim\\fade_in.xml",
+        "source": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\librarybaseui\\src\\main\\res\\anim\\fade_in.xml"
+    },
+    {
+        "merged": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\librarybaseui\\build\\intermediates\\res\\merged\\release\\anim\\push_left_out.xml",
+        "source": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\librarybaseui\\src\\main\\res\\anim\\push_left_out.xml"
+    },
+    {
+        "merged": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\librarybaseui\\build\\intermediates\\res\\merged\\release\\anim\\snackbar_hide_animation.xml",
+        "source": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\librarybaseui\\src\\main\\res\\anim\\snackbar_hide_animation.xml"
+    }
+]

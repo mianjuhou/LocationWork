@@ -1,0 +1,38 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 23
+    buildToolsVersion "23.0.0"
+
+    defaultConfig {
+        applicationId "com.jtv.hrb.locationwork"
+        minSdkVersion 14
+        targetSdkVersion 23
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+}
+
+dependencies {
+    compile 'com.android.support:support-v4:23.3.0'
+    compile project(':librarybaseui')
+    compile project(':libraryface')
+    compile project(':libraryzxing')
+    compile project(':libstreaming')
+    compile project(':libraryloadigindicator')
+    compile project(':libvitamiocamer')
+    compile files('libs/fastjson-1.1.40.jar')
+    compile files('libs/ksoap2-android-assembly-3.0.0-jar-with-dependencies.jar')
+    compile files('libs/okhttp-3.0.1.jar')
+    compile files('libs/okio-1.6.0.jar')
+    compile files('libs/platform_sdk_v2.0.0.jar')
+    compile files('libs/RasterSDKv1.1.0.15299.jar')
+    compile files('libs/TencentLocationSDK_v4.1_r161859.jar')
+    compile files('libs/universalimageloaderlibrary1.9.0.jar')
+    compile files('libs/Volley.jar')
+}

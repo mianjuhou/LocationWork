@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/rl_title_background"
+    android:layout_width="fill_parent"
+    android:layout_height="50dip"
+    android:background="@color/headerbg_color"
+    android:gravity="center_vertical" >
+
+    <TextView
+        android:id="@+id/tv_back"
+        android:layout_width="wrap_content"
+        android:layout_height="fill_parent"
+        android:layout_alignParentLeft="true"
+        android:layout_centerInParent="true"
+        android:layout_marginLeft="5dip"
+        android:drawableLeft="@drawable/selector_btn_backarrow_pressgray"
+        android:gravity="center"
+        android:text="@string/base_backtexts"
+        android:textColor="@drawable/selector_text_colorstate"
+        android:visibility="visible" />
+
+    <!-- 返回 -->
+
+
+    <!-- 内容、标题 -->
+
+    <TextView
+        android:id="@+id/tv_title"
+        android:layout_width="wrap_content"
+        android:layout_height="fill_parent"
+        android:layout_centerHorizontal="true"
+        android:gravity="center"
+        android:text="@string/base_defaultext"
+        android:textColor="@color/white"
+        android:textSize="@dimen/header_title_size" />
+
+    <!-- 设置 /确定/提交 -->
+
+    <Button
+        android:id="@+id/iv_ok"
+        android:layout_marginTop="6dp"
+        android:layout_marginBottom="6dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_marginRight="5dip"
+        android:layout_toLeftOf="@+id/btn_ok"
+        android:paddingLeft="5dp"
+        android:paddingRight="5dp"
+        android:textColor="@color/white"
+        android:visibility="gone" />
+
+    <Button
+        android:id="@+id/btn_commit"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"
+        android:text="提交"
+        android:layout_marginRight="5dp"
+        android:textColor="@color/white"/>
+
+</RelativeLayout>

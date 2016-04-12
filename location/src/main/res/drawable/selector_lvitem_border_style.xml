@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- pressed 点击 -->
+    <item android:state_pressed="true"><shape android:shape="rectangle">
+
+            <!-- 背景渐变色 -->
+            <!-- <gradient android:endColor="#ffffff" android:startColor="#ffffff" /> -->
+            <!-- 描边 -->
+            <stroke android:width="1.5dp" android:color="#d2d2d2" />
+            <!-- 实心，就是填充的意思 -->
+            <solid android:color="#ffffff" />
+			<!-- 圆角 -->
+            <corners android:radius="4dp" />
+
+            <padding android:bottom="8dp" android:left="10dp" android:right="10dp" android:top="8dp" />
+        </shape></item>
+
+    <!-- focus 获得焦点 -->
+    <item android:state_focused="true"><shape>
+
+            <!-- 描边 -->
+            <stroke android:width="1.5dp" android:color="#d2d2d2" />
+
+            <solid android:color="#ffffff" />
+            <!-- 圆角 -->
+            <corners android:radius="4dp" />
+
+            <padding android:bottom="8dp" android:left="10dp" android:right="10dp" android:top="8dp" />
+        </shape></item>
+
+    <!-- default -->
+    <item><shape>
+            <stroke android:width="1.5dp" android:color="#d2d2d2" />
+
+            <solid android:color="#ffffff" />
+            <!-- 圆角 -->
+            <corners android:radius="4dp" />
+
+            <padding android:bottom="5dp" android:left="10dp" android:right="10dp" android:top="5dp" />
+        </shape></item>
+
+</selector>

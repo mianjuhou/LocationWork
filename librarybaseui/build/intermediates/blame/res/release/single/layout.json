@@ -1,0 +1,70 @@
+[
+    {
+        "merged": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\librarybaseui\\build\\intermediates\\res\\merged\\release\\layout\\base_pulllistview_head.xml",
+        "source": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\librarybaseui\\src\\main\\res\\layout\\base_pulllistview_head.xml"
+    },
+    {
+        "merged": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\librarybaseui\\build\\intermediates\\res\\merged\\release\\layout\\load_progress_dialog.xml",
+        "source": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\librarybaseui\\src\\main\\res\\layout\\load_progress_dialog.xml"
+    },
+    {
+        "merged": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\librarybaseui\\build\\intermediates\\res\\merged\\release\\layout\\spinner_list_item.xml",
+        "source": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\librarybaseui\\src\\main\\res\\layout\\spinner_list_item.xml"
+    },
+    {
+        "merged": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\librarybaseui\\build\\intermediates\\res\\merged\\release\\layout\\base_lay_tab_viewpager.xml",
+        "source": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\librarybaseui\\src\\main\\res\\layout\\base_lay_tab_viewpager.xml"
+    },
+    {
+        "merged": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\librarybaseui\\build\\intermediates\\res\\merged\\release\\layout\\color_picker_swatch.xml",
+        "source": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\librarybaseui\\src\\main\\res\\layout\\color_picker_swatch.xml"
+    },
+    {
+        "merged": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\librarybaseui\\build\\intermediates\\res\\merged\\release\\layout\\jtv_module_basetouch_layout.xml",
+        "source": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\librarybaseui\\src\\main\\res\\layout\\jtv_module_basetouch_layout.xml"
+    },
+    {
+        "merged": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\librarybaseui\\build\\intermediates\\res\\merged\\release\\layout\\nifty_dialog_layout.xml",
+        "source": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\librarybaseui\\src\\main\\res\\layout\\nifty_dialog_layout.xml"
+    },
+    {
+        "merged": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\librarybaseui\\build\\intermediates\\res\\merged\\release\\layout\\base_viewpager_table_fragment.xml",
+        "source": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\librarybaseui\\src\\main\\res\\layout\\base_viewpager_table_fragment.xml"
+    },
+    {
+        "merged": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\librarybaseui\\build\\intermediates\\res\\merged\\release\\layout\\base_pulllistfooter_more.xml",
+        "source": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\librarybaseui\\src\\main\\res\\layout\\base_pulllistfooter_more.xml"
+    },
+    {
+        "merged": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\librarybaseui\\build\\intermediates\\res\\merged\\release\\layout\\base_toast_snackbar.xml",
+        "source": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\librarybaseui\\src\\main\\res\\layout\\base_toast_snackbar.xml"
+    },
+    {
+        "merged": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\librarybaseui\\build\\intermediates\\res\\merged\\release\\layout\\basic_jtv_common_header.xml",
+        "source": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\librarybaseui\\src\\main\\res\\layout\\basic_jtv_common_header.xml"
+    },
+    {
+        "merged": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\librarybaseui\\build\\intermediates\\res\\merged\\release\\layout\\base_gridview_fragment.xml",
+        "source": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\librarybaseui\\src\\main\\res\\layout\\base_gridview_fragment.xml"
+    },
+    {
+        "merged": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\librarybaseui\\build\\intermediates\\res\\merged\\release\\layout\\color_picker_dialog.xml",
+        "source": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\librarybaseui\\src\\main\\res\\layout\\color_picker_dialog.xml"
+    },
+    {
+        "merged": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\librarybaseui\\build\\intermediates\\res\\merged\\release\\layout\\location_add_popup_dialog.xml",
+        "source": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\librarybaseui\\src\\main\\res\\layout\\location_add_popup_dialog.xml"
+    },
+    {
+        "merged": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\librarybaseui\\build\\intermediates\\res\\merged\\release\\layout\\base_swipepullto.xml",
+        "source": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\librarybaseui\\src\\main\\res\\layout\\base_swipepullto.xml"
+    },
+    {
+        "merged": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\librarybaseui\\build\\intermediates\\res\\merged\\release\\layout\\jtv_base_calendar.xml",
+        "source": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\librarybaseui\\src\\main\\res\\layout\\jtv_base_calendar.xml"
+    },
+    {
+        "merged": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\librarybaseui\\build\\intermediates\\res\\merged\\release\\layout\\base_loaddialog.xml",
+        "source": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\librarybaseui\\src\\main\\res\\layout\\base_loaddialog.xml"
+    }
+]

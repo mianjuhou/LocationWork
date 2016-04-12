@@ -1,0 +1,106 @@
+[
+    {
+        "merged": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\build\\intermediates\\res\\merged\\debug\\anim\\push_right_in.xml",
+        "source": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\build\\intermediates\\exploded-aar\\LocationWork\\librarybaseui\\unspecified\\res\\anim\\push_right_in.xml"
+    },
+    {
+        "merged": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\build\\intermediates\\res\\merged\\debug\\anim\\animation_record.xml",
+        "source": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\src\\main\\res\\anim\\animation_record.xml"
+    },
+    {
+        "merged": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\build\\intermediates\\res\\merged\\debug\\anim\\record_focus.xml",
+        "source": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\build\\intermediates\\exploded-aar\\LocationWork\\libvitamiocamer\\unspecified\\res\\anim\\record_focus.xml"
+    },
+    {
+        "merged": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\build\\intermediates\\res\\merged\\debug\\anim\\anim_fade.xml",
+        "source": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\src\\main\\res\\anim\\anim_fade.xml"
+    },
+    {
+        "merged": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\build\\intermediates\\res\\merged\\debug\\anim\\anim_frame_progress_round.xml",
+        "source": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\src\\main\\res\\anim\\anim_frame_progress_round.xml"
+    },
+    {
+        "merged": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\build\\intermediates\\res\\merged\\debug\\anim\\anim_rotate.xml",
+        "source": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\src\\main\\res\\anim\\anim_rotate.xml"
+    },
+    {
+        "merged": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\build\\intermediates\\res\\merged\\debug\\anim\\progress_roate_animation.xml",
+        "source": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\build\\intermediates\\exploded-aar\\LocationWork\\librarybaseui\\unspecified\\res\\anim\\progress_roate_animation.xml"
+    },
+    {
+        "merged": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\build\\intermediates\\res\\merged\\debug\\anim\\push_left_out.xml",
+        "source": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\build\\intermediates\\exploded-aar\\LocationWork\\librarybaseui\\unspecified\\res\\anim\\push_left_out.xml"
+    },
+    {
+        "merged": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\build\\intermediates\\res\\merged\\debug\\anim\\fade_in.xml",
+        "source": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\build\\intermediates\\exploded-aar\\LocationWork\\librarybaseui\\unspecified\\res\\anim\\fade_in.xml"
+    },
+    {
+        "merged": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\build\\intermediates\\res\\merged\\debug\\anim\\anim_playsound.xml",
+        "source": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\src\\main\\res\\anim\\anim_playsound.xml"
+    },
+    {
+        "merged": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\build\\intermediates\\res\\merged\\debug\\anim\\snackbar_show_animation.xml",
+        "source": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\build\\intermediates\\exploded-aar\\LocationWork\\librarybaseui\\unspecified\\res\\anim\\snackbar_show_animation.xml"
+    },
+    {
+        "merged": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\build\\intermediates\\res\\merged\\debug\\anim\\push_bottom_in_1.xml",
+        "source": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\build\\intermediates\\exploded-aar\\LocationWork\\librarybaseui\\unspecified\\res\\anim\\push_bottom_in_1.xml"
+    },
+    {
+        "merged": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\build\\intermediates\\res\\merged\\debug\\anim\\push_right_out.xml",
+        "source": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\build\\intermediates\\exploded-aar\\LocationWork\\librarybaseui\\unspecified\\res\\anim\\push_right_out.xml"
+    },
+    {
+        "merged": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\build\\intermediates\\res\\merged\\debug\\anim\\push_left_in.xml",
+        "source": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\build\\intermediates\\exploded-aar\\LocationWork\\librarybaseui\\unspecified\\res\\anim\\push_left_in.xml"
+    },
+    {
+        "merged": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\build\\intermediates\\res\\merged\\debug\\anim\\snackbar_hide_animation.xml",
+        "source": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\build\\intermediates\\exploded-aar\\LocationWork\\librarybaseui\\unspecified\\res\\anim\\snackbar_hide_animation.xml"
+    },
+    {
+        "merged": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\build\\intermediates\\res\\merged\\debug\\anim\\anim_rotate_shape_progressbar_bg.xml",
+        "source": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\build\\intermediates\\exploded-aar\\LocationWork\\librarybaseui\\unspecified\\res\\anim\\anim_rotate_shape_progressbar_bg.xml"
+    },
+    {
+        "merged": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    }
+]

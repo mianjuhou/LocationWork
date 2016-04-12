@@ -1,0 +1,413 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hlr_packagename">com.jtv.merge</string>
+    <string name="version">版本:</string>
+    <string name="title_question_line">查看线路</string>
+    <!-- 当前应用的ip配置服务器2 初始化的ip -->
+
+
+    <!-- 这个是配置socket连接的ip上传图片 -->
+    <string name="socket_ip">118.26.65.50:8089</string>
+
+    <!-- 路径不要改否则会不好用 -->
+    <!-- 厦门db前缀 -->
+    <string name="app_version">1.0.1</string>
+    <string name="db_factory">com.jtv.framework.common.MyDBPool</string>
+    <string name="table_prefix">pda_</string>
+    <string name="title_editor">编辑</string>
+    <string name="dis_draw_module">样式</string>
+    <string name="dis_draw_color">颜色</string>
+    <string name="dialog_color_title">选择颜色</string>
+    <string name="dis_title_check">线路检查</string>
+    <string name="dis_title_file">文件</string>
+
+    <!-- 修改时，修改last_mod_date，上传后框架会自动修改last_trans_date=last_mod_date -->
+    <string name="last_trans_date">last_trans_date</string>
+    <string name="last_mod_date">last_mod_date</string>
+    <!-- sync_update_time、sync_recent_update_time、upload_time和sync_del_flag目前没用 -->
+    <string name="sync_update_time">LAST_UPDATE_DATE_PDA</string>
+    <string name="sync_recent_update_time">LAST_MOD_DATE</string>
+    <string name="upload_time">LAST_UPLOAD_DATE</string>
+    <string name="sync_del_flag">SYNC_DEL_FLAG</string>
+
+    <drawable name="row_1">#607B8B</drawable>
+    <drawable name="row_2">#555555</drawable>
+
+    <!-- 0不全屏，1全屏 -->
+    <string name="fullscreen">0</string>
+    <!-- 0是不高亮，1是高亮 -->
+    <string name="hightlightunuploaddata">0</string>
+    <string name="sys_app_id">ANTG</string>
+    <string name="nfc_error">错误</string>
+    <string name="nfc_warn">提示</string>
+    <string name="nfc_no_nfc">此手机没有NFC功能！</string>
+    <string name="deletedbed">数据库已删除</string>
+    <string name="wonum_false">工单模拟成功</string>
+    <string name="nfc_disabled">NFC功能不可用，点击确定打开设置页面。</string>
+    <string name="app_name">现场作业</string>
+    <string name="app_state">触摸打开主界面</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="configd_delete">配置文件清成功</string>
+
+    <!-- 首页 -->
+    <string name="home_title">现场作业系统</string>
+    <string name="home_wo_title">作业工单</string>
+    <!-- <string name="home_wolist_title">列表工单</string> -->
+    <string name="home_wolist_title">作业单</string>
+    <string name="home_set_title">设置</string>
+    <string name="home_add_title">待添加</string>
+    <string name="home_wrkhandover_title">交班</string>
+    <string name="home_wrkhandover_map">地图</string>
+    <string name="home_kaoqing">考勤</string>
+    <string name="home_jiju">机具</string>
+    <string name="home_takephoto_video">拍摄</string>
+    <string name="home_work">办公</string>
+    <string name="home_takephoto_videolink">卡控</string>
+
+    <!-- 基础 -->
+    <string name="base_defaulttext">...</string>
+    <string name="base_error_nofound">未找到相关数据!</string>
+
+    <!-- 拍照页面 -->
+    <string name="photo_submit">提交</string>
+    <string name="photo_error_camera">请拍照后，在进行上传</string>
+    <string name="phpto_error_upload">上传失败!</string>
+    <string name="phpto_success_upload">上传成功!</string>
+
+    <!-- 图片展示页面 -->
+    <string name="scan_title">图片展示</string>
+    <string name="scan_wonum">工单号</string>
+    <!-- 工单详情页面 -->
+    <string name="woquery_workno_tips">工单号:</string>
+    <string name="woquery_code_tips">条码:</string>
+    <string name="woquery_wotitle">作业工单</string>
+    <string name="woquery_plan_date">施工日期:</string>
+    <string name="woquery_pro_tips">施工项目:</string>
+    <string name="woquery_pro">项目名:</string>
+    <string name="woquery_zywz">作业位置:</string>
+    <string name="woquery_person">人员:</string>
+    <string name="woquery_tool_person">使用机具及操作人:</string>
+    <string name="woquery_yxfw">车站:</string>
+    <string name="woquery_lead">作业负责人:</string>
+    <string name="woquery_zxtype">走行方式:</string>
+    <string name="woquery_apprlead">审批人:</string>
+    <string name="woquery_precuation">安全预想:</string>
+    <string name="woquery_zywz_tips">施工地点(含站)施工里程:</string>
+    <string name="woquery_person_tips">施工负责人:</string>
+    <string name="woquery_tool_up_tips">施工时间:</string>
+    <string name="woquery_yxfw_tips">施工内容及影响范围:</string>
+    <string name="woquery_zxtype_tips">限速及行车方式变化:</string>
+    <string name="woquery_lead_tips">施工单位及负责人:</string>
+    <string name="woquery_apprlead_tips">设备变化:</string>
+    <string name="woquery_precuation_tips">运输组织:</string>
+    <string name="woquery_not_wonum">您扫描的不是工单，请扫描工单标签。</string>
+    <string name="woquery_scancode_tips">请扫描二维码</string>
+    <string name="scan_qr">扫描</string>
+    <string name="woquery_ready">准备作业</string>
+    <string name="woquery_doneOpenGps">准备作业</string>
+    <string name="woquery_top">上道作业</string>
+    <string name="woquery_face_top">上道考勤</string>
+    <string name="woquery_face_bottom">下道考勤</string>
+    <string name="woquery_tool">工具</string>
+    <!-- <string name="woquery_doneTop">完成上道</string> -->
+    <string name="woquery_doneTop">完成作业</string>
+    <string name="woquery_see_top">查看上道</string>
+    <string name="woquery_see_down">查看下道</string>
+    <string name="woquery_see_top_tool">查看上道机具</string>
+    <string name="woquery_see_down_tool">查看下道机具</string>
+    <string name="woquery_camera_tips">拍照</string>
+    <string name="woquery_scanphoto_tips">查看</string>
+    <string name="woquery_doneCamera">完成照相</string>
+    <string name="woquery_record_video">录制视频</string>
+    <string name="woquery_doneBottom">完成下道</string>
+    <string name="woquery_back">结束作业</string>
+    <string name="woquery_opengps_tips">开启GPS</string>
+    <string name="woquery_closegps_tips">关闭GPS</string>
+    <string name="woquery_save_tips">保存</string>
+    <string name="woquery_close_tips">关闭</string>
+    <string name="woquery_done_tips">已做</string>
+    <string name="woquery_notdone_tips">未做</string>
+    <string name="woquery_notdata_tips">请扫描工作后，在提交状态!</string>
+    <string name="woquery_grade">等级</string>
+    <string name="woquery_line">线路</string>
+    <string name="woquery_type">行别</string>
+    <string name="woquery_beizhu">备注</string>
+
+    <!-- 工单列表 -->
+    <string name="wolist_title">工单列表</string>
+    <string name="wolist_projname_tips">作业项目:</string>
+    <string name="wolist_wonum_tips">工单编号:</string>
+    <string name="wolist_wodate_tips">施工日期:</string>
+    <string name="wolist_woquery_tips">查询</string>
+    <string name="wolist_woupdate_tips">更新</string>
+    <string name="wolist_itemwonum_tips">工单编号:</string>
+    <string name="wolist_itemwoname_tips">工单名称:</string>
+    <string name="wolist_itemplandate">计划日期:</string>
+    <string name="wolist_up">上道</string>
+    <string name="wolist_down">下道</string>
+    <string name="wolist_itempro">作业项目:</string>
+    <string name="wolist_itemloc">影响范围:</string>
+    <string name="wolist_itempeople">作业人员:</string>
+    <string name="wolist_itemplandate_tips">施工日期:</string>
+    <string name="wolist_itempro_tips">作业项目:</string>
+    <string name="wolist_itemloc_tips">施工地点:</string>
+    <string name="wolist_itemcomptstatus_tips">状态:</string>
+    <string name="wolist_location_work">施工位置</string>
+    <string name="wolist_wonum_type">工单类型</string>
+    <string name="wolist_dept">施工车间</string>
+    <string name="wolist_wolevel">防洪等级</string>
+
+    <!-- 设置页面 -->
+    <string name="set_title">设置</string>
+    <string name="set_outpeople_title">设置外来人员</string>
+    <string name="set_belong_workarea">所属工区:</string>
+    <string name="set_person">人员:</string>
+    <string name="set_save">保存</string>
+    <string name="set_update">更新</string>
+    <string name="set_success_save">保存成功!</string>
+
+    <!-- 设置页面  新加入 -->
+    <string name="set_departlevel_tips">部门:</string>
+    <string name="set_depotlevel_tips">段别:</string>
+    <string name="set_workshop_tips">车间:</string>
+    <string name="set_workarea_tips">工区:</string>
+    <string name="set_cancel">取消</string>
+
+    <!-- 图片浏览(未上传的图片) -->
+    <string name="disimg_title">图片浏览</string>
+    <string name="disimg_clear_unupload">清除该工单未上传的图片图片</string>
+    <string name="upload_photo">上传</string>
+    <!-- 拍照页面 -->
+    <string name="camera_title">拍照</string>
+    <string name="barcode">请扫码</string>
+    <string name="barcode_tips">条码:</string>
+    <string name="toolnum_tips">工具编号:</string>
+    <string name="toolname_tips">工具名称:</string>
+    <string name="toolsize_tips">规格:</string>
+    <string name="tool_warestate_tips">出入库状态:</string>
+    <string name="tool_toolstate_tips">工具状态:</string>
+
+    <!-- 设置页面 -->
+    <string name="device_code">机器码：</string>
+    <string name="wa_leader">登录人:</string>
+    <string name="wa_outpeople">人员:</string>
+
+    <!-- 交接页面 -->
+    <string name="morning_shift">早班</string>
+    <string name="night_shift">晚班</string>
+    <string name="see_photo">查看照片</string>
+    <string name="nophoto">暂无照片</string>
+    <string name="onfaceup">请先点击上道考勤</string>
+    <string name="ontoolup">请先点击上道机具</string>
+    <string name="toast_uploadphoto">图片正在上传或者已上传</string>
+    <string name="start">开始</string>
+    <string name="end">结束</string>
+    <string name="goback">返回</string>
+    <string name="connect">连接</string>
+    <string name="pause">暂停</string>
+
+    <!-- 视频上传 -->
+    <string name="setStr">设置页面</string>
+    <string name="error_http">访问网络失败</string>
+    <string name="videoStr">视频页面</string>
+    <string name="mediaStr">视频数据</string>
+    <string name="idrStr">视频IDR</string>
+    <string name="mcStr">MC模式</string>
+    <string name="unupload_video">视频还没有录制完成</string>
+    <string name="upload_videoing">视频正在上传,或者录制成功</string>
+    <string name="error_open_camera">打开相机失败,请尝试重启手机</string>
+    <string name="photo">拍照</string>
+    <string name="video">视频</string>
+    <string name="selector">选择</string>
+    <string name="photo_selector">照片提交分类</string>
+    <string name="remarks">备注</string>
+    <string name="nowonum">没有找到工单号</string>
+    <!-- item -->
+    <string name="show_item_head1">大中修施工</string>
+    <!--  -->
+    <string name="head1_item1_head">施工前</string>
+    <string name="head1_item1_tool">工具出入库</string>
+    <string name="head1_item1_setting">防护设置</string>
+    <string name="not_foun_people">没有人员,退出后重新设置</string>
+    <string name="head1_item1_arrive">人员机具到位情况</string>
+    <!--  -->
+    <string name="head1_item2_head">开通前</string>
+    <string name="head1_item2_state">与公务联检情况</string>
+    <string name="head1_item2_query">工机具清点登记</string>
+    <string name="head1_item2_exits">防护撤出</string>
+    <!--  -->
+    <string name="head1_item3_head">天窗外</string>
+    <string name="head1_item3_in">作业施工中</string>
+    <string name="head1_item3_exits">人员到位,撤出时</string>
+    <!-- item -->
+    <string name="show_item_head2">大机维修施工</string>
+    <!--  -->
+    <string name="head2_item1_head">施工前</string>
+    <string name="head2_item1_os">机械设备检点</string>
+    <string name="head2_item1_query">运监自检</string>
+    <string name="head2_item1_exits">防护铁鞋撤除</string>
+    <string name="head2_item1_arrive">人员机械达到现场</string>
+    <!--  -->
+    <string name="head2_item2_head">施工中</string>
+    <string name="head2_item2_thing">突发事件</string>
+    <!--  -->
+    <string name="head2_item3_head">施工后</string>
+    <string name="head2_item3_query">开行前捆绑检查</string>
+    <string name="head2_item3_setting">设置止轮</string>
+    <string name="head2_item3_os">设备保养</string>
+    <!-- item -->
+    <string name="show_item_head3">行车日计划</string>
+    <!--  -->
+    <string name="head3_item1_head">开行前卡控</string>
+    <string name="head3_item1_arrive">人员到位情况</string>
+    <string name="head3_item1_query">捆绑检查情况</string>
+    <string name="head3_item1_exits">撤出止轮情况</string>
+    <string name="query">查看</string>
+    <!--  -->
+    <string name="head3_item2_head">运行中卡控项目</string>
+    <string name="head3_item2_thing">中途编组／突发事件</string>
+    <!--  -->
+    <string name="head3_item3_head">达到后卡控项目</string>
+    <string name="head3_item3_red">安设卡伦及红牌</string>
+    <string name="gps_get">坐标采集</string>
+    <string name="home_rtspvideo">实时视频</string>
+    <string name="line_name">线名</string>
+    <string name="line_type">行别</string>
+    <string name="line_km">标尺</string>
+    <string name="error_lines">线名或则线别没数据</string>
+    <string name="error_noline_name">请设置线名</string>
+    <string name="nogps">没有获取到坐标</string>
+    <string name="error_noline_type">请设置行别</string>
+    <string name="ipassert">ip在应用重启后生效</string>
+    <string name="no_select_data">没有选中数据</string>
+    <string name="no_gongqu_data_switch">没有工区信息,切换到车间</string>
+
+    <!-- socket  conneet -->
+    <string name="socket_failed">与后台连接失败</string>
+    <string name="socket_success">与后台连接成功</string>
+    <string name="socket_connecting">正在与后台连接中</string>
+    <string name="socket_failed_send">数据发送失败</string>
+    <string name="download_cancel">取消版本更新</string>
+    <string name="cancel">取消</string>
+    <string name="ok">确认</string>
+    <string name="find_version_update">发现新版本</string>
+    <string name="version_updateing">版本更新中</string>
+    <string name="download">下载</string>
+    <string name="cancel_download">取消下载</string>
+    <string name="print_out_file">后台传过来一个文件是否需要下载</string>
+    <string name="not_tf">没找到外置存储卡</string>
+    <string name="face_failed">人脸识别数据初始化失败</string>
+    <string name="set_attend">开启与后台的连接</string>
+    <string name="wheel_title">提交位置</string>
+    <string name="syn_sucessful">同步成功</string>
+    <string name="error_install_failed">安装失败</string>
+    <string name="check_update">检查更新</string>
+    <string name="wonum_update">工单更新</string>
+    <string name="upload_failed">上传失败</string>
+    <string name="upload_successful">上传成功</string>
+    <string name="uploading">上传中</string>
+    <string name="recover">恢复</string>
+    <string name="column1">姓名</string>
+    <string name="column2">部门</string>
+    <string name="column3">段别</string>
+    <string name="column4">车间</string>
+    <string name="column5">工区</string>
+    <string name="show_text_depart">小提示:保存数据以下面表格为准,若要修改数据,联系后台修改</string>
+    <string name="show_delete_db">删除数据库</string>
+    <string name="show_init">恢复初始化</string>
+    <string name="reverse_db">载入</string>
+    <string name="init_db">数据库初始化</string>
+    <string name="reverse_success">数据库初始化成功</string>
+    <string name="toast_no_face">当前部门没有脸部信息</string>
+    <string name="toast_face_updatefail">更新失败,没有找到需要更新的用户数据</string>
+    <string name="title_start_update">开始更新</string>
+    <string name="dialog_title_face">正在更新,请勿退出造成数据更新失败。失败后人脸不能考勤\r\n也可以选择单个人员进行更新</string>
+    <string name="erroe_date_parse">日期格式不正确</string>
+    <string name="dis_up">更新</string>
+    <string name="dis_exitapp">是否退出应用程序</string>
+    <string name="dis_updepart_depart">更新部门人员变动信息,数据较大容易崩溃</string>
+    <string name="toast_updeart_depart">正在更新,数据量过大,可能造成程序异常退出</string>
+    <string name="toast_updateing">更新中</string>
+    <string name="toast_update_finish">更新完成</string>
+    <string name="dis_tv_session_socket">会话通讯</string>
+    <string name="dis_tv_rtsp_socket">视频通讯</string>
+    <string name="dis_query">查询</string>
+    <string name="dis_work_task">作业单</string>
+    <string name="dis_take_photo">拍摄</string>
+    <string name="dis_position">位置</string>
+    <string name="toast_wonum_synchr">正在同步工单</string>
+    <string name="toast_seting_depart">请先设置部门</string>
+    <string name="tos_not_found_wonum">今日无工单</string>
+    <string name="dis_tv_videotitle">视频</string>
+    <string name="dis_tv_phototitle">拍照</string>
+    <string name="dis_tv_up_video">上传视频</string>
+    <string name="dis_tv_up_photo">上传图片</string>
+    <string name="dis_tv_down_facedata">下载人脸识别数据</string>
+    <string name="dis_tv_down_facedata_succ">下载人脸识别数据成功</string>
+    <string name="tos_save_failed">保存数据失败</string>
+    <string name="dis_tv_photo_quality">照片质量</string>
+    <string name="dis_tv_photo_size">照片压缩比</string>
+    <string name="dis_tv_exit">完全退出</string>
+    <string name="download_ok">下载成功</string>
+    <string name="download_failed">下载失败</string>
+    <string name="dis_tv_backgroundrun">后台运行</string>
+    <string name="dis_background_interdouce">后台运行包括坐标采集和会话通讯</string>
+    <string name="dis_tv_isinitdb">是否重新加载本地数据库</string>
+    <string name="dis_gps_time">GPS定位周期</string>
+    <string name="dis_download_so_video">下载视频录制支持库,数据较大</string>
+    <string name="dis_download_so_face">下载人脸录制支持库,数据较大</string>
+    <string name="dis_download_facefinish">下载人脸库完成</string>
+    <string name="dis_download_faceso_interdouce">是否请求网络下载人脸识别库文件,如果需要人脸识别功能则下载,数据大约14.7MB,建议在网络情况较好时下载,请耐心等待</string>
+    <string name="dis_interdouce_version">本次更新的内容有\r\n 1 本次更新修复若干问题  2 线路检查更好用  </string>
+    <string name="dis_request_video">后台正在请求实习视频是否需要本次请求...</string>
+    <string name="dis_request_video_title">请求实时视频.</string>
+    <string name="dis_kakong">卡控</string>
+    <string name="dis_finder">应用</string>
+    <string name="dis_descripte_check_type">请选择施工类型</string>
+    <string name="dis_tos_departchage">部门发生变动退出应用可更新部门</string>
+    <string name="dis_tv_dcim">相册</string>
+    <string name="tos_download_seting_face">请先到设置界面点击下载人脸录制支持库</string>
+    <string name="dis_tv_recorder_line">录入</string>
+    <string name="dis_tv_particular">详细</string>
+    <string name="dis_delete">删除</string>
+    <string name="dis_delete_say">删除选中的文本,长按3秒以上可以查看</string>
+    <string name="dis_delete_ok">删除成功</string>
+    <string name="tos_uploading">上传中</string>
+    <string name="tos_upload_failed">上传失败</string>
+    <string name="tos_upload_finish">上传完成</string>
+    <string name="tos_no_distance">没有获取到里程,请更换其它线或者行</string>
+    <string name="dis_query_wonum">按工单号查询</string>
+    <string name="dis_modle">模式</string>
+    <string name="dis_success">成功</string>
+    <string name="dis_failed">失败</string>
+    <string name="dis_word_failed">语音转换失败</string>
+    <string name="tos_error_upload">上传失败,数据已离线保存在问题检查按钮中</string>
+    <string name="dis_look">查看</string>
+    <string name="ok_uploadfile">确定上传文件</string>
+    <string name="file_not_exit">文件不存在</string>
+    <string name="title_download">下载</string>
+    <string name="please_sel_photo">请先拍照或者从相册里面选取</string>
+
+    <string-array name="color">
+        <item>红色</item>
+        <item>黑色</item>
+        <item>白色</item>
+        <item>黄色</item>
+        <item>绿色</item>
+        <item>蓝色</item>
+    </string-array>
+
+    <string name="title_activity_class_select">ClassSelectActivity</string>
+    <string name="title_activity_static_check">StaticCheckActivity</string>
+    <string name="title_activity_line_curve">LineCurveActivity</string>
+    <string name="title_activity_turnout_check">TurnoutCheckActivity</string>
+    <string name="title_activity_line_curve_check">LineCurveCheckActivity</string>
+    <string name="title_activity_turnout_list">TurnoutListActivity</string>
+    <string name="title_activity_curve_list">CurveListActivity</string>
+    <string name="title_activity_turnout_check2">TurnoutCheck2Activity</string>
+    <string name="title_activity_question_input">QuestionInputActivity</string>
+    <string name="title_activity_question_turnout">QuestionTurnoutActivity</string>
+
+</resources>

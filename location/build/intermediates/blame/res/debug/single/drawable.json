@@ -1,0 +1,418 @@
+[
+    {
+        "merged": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_white_round.xml",
+        "source": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\src\\main\\res\\drawable\\shape_white_round.xml"
+    },
+    {
+        "merged": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\build\\intermediates\\res\\merged\\debug\\drawable\\record_camera_flash_led_selector.xml",
+        "source": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\build\\intermediates\\exploded-aar\\LocationWork\\libvitamiocamer\\unspecified\\res\\drawable\\record_camera_flash_led_selector.xml"
+    },
+    {
+        "merged": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_text_colorstate.xml",
+        "source": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\build\\intermediates\\exploded-aar\\LocationWork\\librarybaseui\\unspecified\\res\\drawable\\selector_text_colorstate.xml"
+    },
+    {
+        "merged": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\build\\intermediates\\res\\merged\\debug\\drawable\\spinner_selector.xml",
+        "source": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\build\\intermediates\\exploded-aar\\LocationWork\\librarybaseui\\unspecified\\res\\drawable\\spinner_selector.xml"
+    },
+    {
+        "merged": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_stategray_white_text.xml",
+        "source": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\src\\main\\res\\drawable\\selector_stategray_white_text.xml"
+    },
+    {
+        "merged": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\build\\intermediates\\res\\merged\\debug\\drawable\\select_as_ios7_other_bt_bottom.xml",
+        "source": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\build\\intermediates\\exploded-aar\\LocationWork\\librarybaseui\\unspecified\\res\\drawable\\select_as_ios7_other_bt_bottom.xml"
+    },
+    {
+        "merged": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_button_pressgray_upblue.xml",
+        "source": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\src\\main\\res\\drawable\\selector_button_pressgray_upblue.xml"
+    },
+    {
+        "merged": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\build\\intermediates\\res\\merged\\debug\\drawable\\sel_enable_red_blue.xml",
+        "source": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\build\\intermediates\\exploded-aar\\LocationWork\\libvitamiocamer\\unspecified\\res\\drawable\\sel_enable_red_blue.xml"
+    },
+    {
+        "merged": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_class_select.xml",
+        "source": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\src\\main\\res\\drawable\\selector_class_select.xml"
+    },
+    {
+        "merged": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\build\\intermediates\\res\\merged\\debug\\drawable\\bt_calendar_last.xml",
+        "source": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\build\\intermediates\\exploded-aar\\LocationWork\\librarybaseui\\unspecified\\res\\drawable\\bt_calendar_last.xml"
+    },
+    {
+        "merged": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\build\\intermediates\\res\\merged\\debug\\drawable\\color_picker_swatch.xml",
+        "source": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\build\\intermediates\\exploded-aar\\LocationWork\\librarybaseui\\unspecified\\res\\drawable\\color_picker_swatch.xml"
+    },
+    {
+        "merged": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\build\\intermediates\\res\\merged\\debug\\drawable\\nitfy_btn_unpress.xml",
+        "source": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\build\\intermediates\\exploded-aar\\LocationWork\\librarybaseui\\unspecified\\res\\drawable\\nitfy_btn_unpress.xml"
+    },
+    {
+        "merged": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_weixin.xml",
+        "source": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\src\\main\\res\\drawable\\tab_weixin.xml"
+    },
+    {
+        "merged": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_round_item_del_style.xml",
+        "source": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\src\\main\\res\\drawable\\selector_round_item_del_style.xml"
+    },
+    {
+        "merged": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\build\\intermediates\\res\\merged\\debug\\drawable\\bt_nobgd.xml",
+        "source": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\build\\intermediates\\exploded-aar\\LocationWork\\librarybaseui\\unspecified\\res\\drawable\\bt_nobgd.xml"
+    },
+    {
+        "merged": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\build\\intermediates\\res\\merged\\debug\\drawable\\sel_touch.xml",
+        "source": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\build\\intermediates\\exploded-aar\\LocationWork\\libvitamiocamer\\unspecified\\res\\drawable\\sel_touch.xml"
+    },
+    {
+        "merged": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\build\\intermediates\\res\\merged\\debug\\drawable\\nitfy_btn_selector.xml",
+        "source": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\build\\intermediates\\exploded-aar\\LocationWork\\librarybaseui\\unspecified\\res\\drawable\\nitfy_btn_selector.xml"
+    },
+    {
+        "merged": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_round_redsoken.xml",
+        "source": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\build\\intermediates\\exploded-aar\\LocationWork\\librarybaseui\\unspecified\\res\\drawable\\shape_round_redsoken.xml"
+    },
+    {
+        "merged": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_item_set_style.xml",
+        "source": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\src\\main\\res\\drawable\\selector_item_set_style.xml"
+    },
+    {
+        "merged": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_scan_style.xml",
+        "source": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\src\\main\\res\\drawable\\btn_scan_style.xml"
+    },
+    {
+        "merged": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_arrow_lvitem_next_style.xml",
+        "source": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\src\\main\\res\\drawable\\selector_arrow_lvitem_next_style.xml"
+    },
+    {
+        "merged": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_edittext_bg.xml",
+        "source": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\build\\intermediates\\exploded-aar\\LocationWork\\librarybaseui\\unspecified\\res\\drawable\\selector_edittext_bg.xml"
+    },
+    {
+        "merged": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_filechoose_operate_dialog.xml",
+        "source": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\src\\main\\res\\drawable\\selector_filechoose_operate_dialog.xml"
+    },
+    {
+        "merged": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_othre_radio.xml",
+        "source": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\src\\main\\res\\drawable\\shape_othre_radio.xml"
+    },
+    {
+        "merged": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_record_sound.xml",
+        "source": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\src\\main\\res\\drawable\\selector_record_sound.xml"
+    },
+    {
+        "merged": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_item_pressgray_upblue.xml",
+        "source": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\build\\intermediates\\exploded-aar\\LocationWork\\librarybaseui\\unspecified\\res\\drawable\\selector_item_pressgray_upblue.xml"
+    },
+    {
+        "merged": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\build\\intermediates\\res\\merged\\debug\\drawable\\select_as_ios7_cancel_bt.xml",
+        "source": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\build\\intermediates\\exploded-aar\\LocationWork\\librarybaseui\\unspecified\\res\\drawable\\select_as_ios7_cancel_bt.xml"
+    },
+    {
+        "merged": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\build\\intermediates\\res\\merged\\debug\\drawable\\sel_status.xml",
+        "source": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\build\\intermediates\\exploded-aar\\LocationWork\\libvitamiocamer\\unspecified\\res\\drawable\\sel_status.xml"
+    },
+    {
+        "merged": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_gou_ok_state.xml",
+        "source": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\src\\main\\res\\drawable\\selector_gou_ok_state.xml"
+    },
+    {
+        "merged": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\build\\intermediates\\res\\merged\\debug\\drawable\\rectangle_red_style.xml",
+        "source": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\build\\intermediates\\exploded-aar\\LocationWork\\librarybaseui\\unspecified\\res\\drawable\\rectangle_red_style.xml"
+    },
+    {
+        "merged": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_contact_list.xml",
+        "source": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\src\\main\\res\\drawable\\tab_contact_list.xml"
+    },
+    {
+        "merged": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_zxing_button_bg.xml",
+        "source": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\src\\main\\res\\drawable\\selector_zxing_button_bg.xml"
+    },
+    {
+        "merged": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_half_corner_text.xml",
+        "source": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\src\\main\\res\\drawable\\selector_half_corner_text.xml"
+    },
+    {
+        "merged": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\build\\intermediates\\res\\merged\\debug\\drawable\\record_delete_selector.xml",
+        "source": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\build\\intermediates\\exploded-aar\\LocationWork\\libvitamiocamer\\unspecified\\res\\drawable\\record_delete_selector.xml"
+    },
+    {
+        "merged": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_half_corner_text_right.xml",
+        "source": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\src\\main\\res\\drawable\\selector_half_corner_text_right.xml"
+    },
+    {
+        "merged": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_profile.xml",
+        "source": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\src\\main\\res\\drawable\\tab_profile.xml"
+    },
+    {
+        "merged": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_login_round.xml",
+        "source": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\src\\main\\res\\drawable\\shape_login_round.xml"
+    },
+    {
+        "merged": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\build\\intermediates\\res\\merged\\debug\\drawable\\record_camera_switch_selector.xml",
+        "source": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\build\\intermediates\\exploded-aar\\LocationWork\\libvitamiocamer\\unspecified\\res\\drawable\\record_camera_switch_selector.xml"
+    },
+    {
+        "merged": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_half_corner_gray_text.xml",
+        "source": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\src\\main\\res\\drawable\\shape_half_corner_gray_text.xml"
+    },
+    {
+        "merged": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\build\\intermediates\\res\\merged\\debug\\drawable\\bt_calendar_next.xml",
+        "source": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\build\\intermediates\\exploded-aar\\LocationWork\\librarybaseui\\unspecified\\res\\drawable\\bt_calendar_next.xml"
+    },
+    {
+        "merged": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_playmedia_style.xml",
+        "source": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\src\\main\\res\\drawable\\btn_playmedia_style.xml"
+    },
+    {
+        "merged": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_half_corner_white_text.xml",
+        "source": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\src\\main\\res\\drawable\\shape_half_corner_white_text.xml"
+    },
+    {
+        "merged": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\build\\intermediates\\res\\merged\\debug\\drawable\\select_as_ios7_other_bt_middle.xml",
+        "source": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\build\\intermediates\\exploded-aar\\LocationWork\\librarybaseui\\unspecified\\res\\drawable\\select_as_ios7_other_bt_middle.xml"
+    },
+    {
+        "merged": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_pressblue_upgray_locationpng.xml",
+        "source": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\src\\main\\res\\drawable\\selector_pressblue_upgray_locationpng.xml"
+    },
+    {
+        "merged": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_btn_text_deblue_upgray.xml",
+        "source": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\src\\main\\res\\drawable\\selector_btn_text_deblue_upgray.xml"
+    },
+    {
+        "merged": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_btn_backarrow_pressgray.xml",
+        "source": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\build\\intermediates\\exploded-aar\\LocationWork\\librarybaseui\\unspecified\\res\\drawable\\selector_btn_backarrow_pressgray.xml"
+    },
+    {
+        "merged": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_btn_measure_type.xml",
+        "source": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\src\\main\\res\\drawable\\selector_btn_measure_type.xml"
+    },
+    {
+        "merged": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_btn_bottom.xml",
+        "source": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\src\\main\\res\\drawable\\selector_btn_bottom.xml"
+    },
+    {
+        "merged": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_lvitem_border_style.xml",
+        "source": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\src\\main\\res\\drawable\\selector_lvitem_border_style.xml"
+    },
+    {
+        "merged": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_curr_con.xml",
+        "source": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\src\\main\\res\\drawable\\shape_curr_con.xml"
+    },
+    {
+        "merged": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_btn_pressblue_upgray.xml",
+        "source": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\src\\main\\res\\drawable\\selector_btn_pressblue_upgray.xml"
+    },
+    {
+        "merged": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_blue_round.xml",
+        "source": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\src\\main\\res\\drawable\\shape_blue_round.xml"
+    },
+    {
+        "merged": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_item_wolist_style.xml",
+        "source": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\src\\main\\res\\drawable\\selector_item_wolist_style.xml"
+    },
+    {
+        "merged": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\build\\intermediates\\res\\merged\\debug\\drawable\\rounded_corners.xml",
+        "source": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\src\\main\\res\\drawable\\rounded_corners.xml"
+    },
+    {
+        "merged": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_item_pressgray_upwhite.xml",
+        "source": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\src\\main\\res\\drawable\\selector_item_pressgray_upwhite.xml"
+    },
+    {
+        "merged": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\build\\intermediates\\res\\merged\\debug\\drawable\\record_cancel_seletor.xml",
+        "source": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\build\\intermediates\\exploded-aar\\LocationWork\\libvitamiocamer\\unspecified\\res\\drawable\\record_cancel_seletor.xml"
+    },
+    {
+        "merged": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\build\\intermediates\\res\\merged\\debug\\drawable\\slt_backarrow_pressgray_up.xml",
+        "source": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\build\\intermediates\\exploded-aar\\LocationWork\\libraryzxing\\unspecified\\res\\drawable\\slt_backarrow_pressgray_up.xml"
+    },
+    {
+        "merged": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_angle_tidu.xml",
+        "source": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\src\\main\\res\\drawable\\shape_angle_tidu.xml"
+    },
+    {
+        "merged": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_btn_plus_minus.xml",
+        "source": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\src\\main\\res\\drawable\\selector_btn_plus_minus.xml"
+    },
+    {
+        "merged": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_round_pressforblue.xml",
+        "source": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\src\\main\\res\\drawable\\selector_round_pressforblue.xml"
+    },
+    {
+        "merged": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_record_style.xml",
+        "source": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\src\\main\\res\\drawable\\btn_record_style.xml"
+    },
+    {
+        "merged": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_find.xml",
+        "source": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\src\\main\\res\\drawable\\tab_find.xml"
+    },
+    {
+        "merged": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_btn_text_colorstate.xml",
+        "source": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\src\\main\\res\\drawable\\selector_btn_text_colorstate.xml"
+    },
+    {
+        "merged": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_btn_query_style.xml",
+        "source": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\build\\intermediates\\exploded-aar\\LocationWork\\librarybaseui\\unspecified\\res\\drawable\\selector_btn_query_style.xml"
+    },
+    {
+        "merged": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\build\\intermediates\\res\\merged\\debug\\drawable\\select_as_ios7_other_bt_top.xml",
+        "source": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\build\\intermediates\\exploded-aar\\LocationWork\\librarybaseui\\unspecified\\res\\drawable\\select_as_ios7_other_bt_top.xml"
+    },
+    {
+        "merged": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_conner_whiet.xml",
+        "source": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\build\\intermediates\\exploded-aar\\LocationWork\\librarybaseui\\unspecified\\res\\drawable\\shape_conner_whiet.xml"
+    },
+    {
+        "merged": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\build\\intermediates\\res\\merged\\debug\\drawable\\spinner_drawable.xml",
+        "source": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\build\\intermediates\\exploded-aar\\LocationWork\\librarybaseui\\unspecified\\res\\drawable\\spinner_drawable.xml"
+    },
+    {
+        "merged": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_half_corner_white_right.xml",
+        "source": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\src\\main\\res\\drawable\\shape_half_corner_white_right.xml"
+    },
+    {
+        "merged": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\build\\intermediates\\res\\merged\\debug\\drawable\\nitfy_btn_press.xml",
+        "source": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\build\\intermediates\\exploded-aar\\LocationWork\\librarybaseui\\unspecified\\res\\drawable\\nitfy_btn_press.xml"
+    },
+    {
+        "merged": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\build\\intermediates\\res\\merged\\debug\\drawable\\record_save_sel.xml",
+        "source": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\build\\intermediates\\exploded-aar\\LocationWork\\libvitamiocamer\\unspecified\\res\\drawable\\record_save_sel.xml"
+    },
+    {
+        "merged": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_half_corner_gray_text_right.xml",
+        "source": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\src\\main\\res\\drawable\\shape_half_corner_gray_text_right.xml"
+    },
+    {
+        "merged": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_arc_pressblue_upgray.xml",
+        "source": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\src\\main\\res\\drawable\\selector_arc_pressblue_upgray.xml"
+    },
+    {
+        "merged": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_qt_item.xml",
+        "source": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\src\\main\\res\\drawable\\selector_qt_item.xml"
+    },
+    {
+        "merged": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_qr_twocode.xml",
+        "source": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\src\\main\\res\\drawable\\selector_qr_twocode.xml"
+    },
+    {
+        "merged": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_item_woinfo_style.xml",
+        "source": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\src\\main\\res\\drawable\\selector_item_woinfo_style.xml"
+    },
+    {
+        "merged": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\build\\intermediates\\res\\merged\\debug\\drawable\\spiner_arrow.xml",
+        "source": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\build\\intermediates\\exploded-aar\\LocationWork\\librarybaseui\\unspecified\\res\\drawable\\spiner_arrow.xml"
+    },
+    {
+        "merged": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_pressblue_upgray_camera.xml",
+        "source": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\src\\main\\res\\drawable\\selector_pressblue_upgray_camera.xml"
+    },
+    {
+        "merged": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\build\\intermediates\\res\\merged\\debug\\drawable\\nitfy_dialog_bg.xml",
+        "source": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\build\\intermediates\\exploded-aar\\LocationWork\\librarybaseui\\unspecified\\res\\drawable\\nitfy_dialog_bg.xml"
+    }
+]

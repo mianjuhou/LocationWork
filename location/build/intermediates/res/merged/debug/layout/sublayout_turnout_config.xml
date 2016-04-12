@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout 
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tablecell="http://schemas.android.com/apk/res/com.jtv.hrb.locationwork"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <TableLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:background="#9CC2E5" >
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" >
+
+            <com.jtv.hrb.locationwork.view.TableCell
+                android:layout_width="0dp"
+                android:layout_height="40dp"
+                android:layout_marginRight="1dp"
+                android:layout_weight="1"
+                android:background="#F2F2F2"
+                android:gravity="center"
+                tablecell:splitColor="#9CC2E5"
+                tablecell:text1="部位"
+                tablecell:text2="项目"
+                tablecell:textSize1="@dimen/midle_size"
+                tablecell:textSize2="@dimen/midle_size" />
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_marginRight="1dp"
+                android:layout_weight="1"
+                android:background="#F2F2F2"
+                android:gravity="center"
+                android:text="轨距"
+                android:textSize="@dimen/midle_size" />
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:background="#F2F2F2"
+                android:gravity="center"
+                android:text="水平"
+                android:textSize="@dimen/midle_size" />
+        </TableRow>
+    </TableLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@android:color/white" />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical" >
+
+            <TableLayout
+                android:id="@+id/tablelayout"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="#9CC2E5"/>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:background="@android:color/white" />
+
+            <Button
+                android:id="@+id/btn_other_quest"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/selector_btn_bottom"
+                android:paddingBottom="10dp"
+                android:paddingTop="10dp"
+                android:text="其他问题录入"
+                android:textSize="20sp" />
+            <LinearLayout
+                android:id="@+id/ll_questions"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical" />
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

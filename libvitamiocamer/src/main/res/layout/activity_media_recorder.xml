@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
+
+    <LinearLayout
+        android:id="@+id/title_layout"
+        android:layout_width="match_parent"
+        android:layout_height="49dip"
+        android:background="@color/black"
+        android:gravity="center_vertical"
+        android:orientation="horizontal" >
+
+        <ImageView
+            android:id="@+id/title_back"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="4dip"
+            android:padding="10dip"
+            android:src="@drawable/record_cancel_seletor" />
+
+        <View
+            android:layout_width="0dip"
+            android:layout_height="1dip"
+            android:layout_weight="1.0" />
+
+        <CheckBox
+            android:id="@+id/record_camera_led"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/record_camera_flash_led_selector"
+            android:button="@null"
+            android:textColor="@color/white" />
+
+        <CheckBox
+            android:id="@+id/record_camera_switcher"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="35dip"
+            android:background="@drawable/record_camera_switch_selector"
+            android:button="@null" />
+
+        <View
+            android:layout_width="0dip"
+            android:layout_height="1dip"
+            android:layout_weight="1.0" />
+
+        <ImageView
+            android:id="@+id/title_next"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="5dip"
+            android:padding="10dip"
+            android:visibility="invisible" />
+    </LinearLayout>
+
+    <com.jtv.video.recorder.view.ProgressView
+        android:id="@+id/record_progress"
+        android:layout_width="match_parent"
+        android:layout_height="25dp"
+        android:layout_below="@+id/title_layout" />
+
+    <RelativeLayout
+        android:id="@+id/camera_layout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/record_progress" >
+
+        <SurfaceView
+            android:id="@+id/record_preview"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+
+        <ImageView
+            android:id="@+id/record_focusing"
+            android:layout_width="64dip"
+            android:layout_height="64dip"
+            android:scaleType="fitXY"
+            android:visibility="gone" />
+    </RelativeLayout>
+
+    <!-- camera_bottom_bg -->
+
+    <LinearLayout
+        android:id="@+id/left"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/rl_boo"
+        android:layout_marginBottom="50dp"
+        android:layout_marginLeft="7dp"
+        android:orientation="vertical"
+        android:visibility="gone" >
+
+        <CheckedTextView
+            android:id="@+id/v_save"
+            android:layout_width="55dp"
+            android:layout_height="55dp"
+            android:clickable="true"
+            android:background="@drawable/record_save_sel"
+            android:button="@null" />
+
+        <CheckedTextView
+            android:id="@+id/record_delete"
+            android:layout_width="55dp"
+            android:layout_height="55dp"
+            android:layout_marginTop="15dp"
+            android:background="@drawable/record_delete_selector"
+            android:button="@null" />
+    </LinearLayout>
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_below="@+id/record_progress"
+        android:padding="3dp" >
+
+        <TextView
+            android:id="@+id/tv_distime"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/red" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/rl_boo"
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:background="@drawable/ic_default" >
+
+        <CheckedTextView
+            android:id="@+id/iv_status"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:background="@drawable/sel_status"
+            android:button="@null" />
+
+        <ImageView
+            android:id="@+id/iv_touch"
+            android:layout_width="140dp"
+            android:layout_height="140dp"
+            android:layout_centerHorizontal="true"
+            android:layout_centerVertical="true"
+            android:background="@drawable/sel_touch"
+            android:clickable="true" />
+    </RelativeLayout>
+
+</RelativeLayout>

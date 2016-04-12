@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_play2.png",
+        "source": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\src\\main\\res\\drawable-ldpi\\ic_play2.png"
+    },
+    {
+        "merged": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_load_progress_waiting_up.png",
+        "source": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\build\\intermediates\\exploded-aar\\LocationWork\\librarybaseui\\unspecified\\res\\drawable-ldpi-v4\\ic_load_progress_waiting_up.png"
+    },
+    {
+        "merged": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_play1.png",
+        "source": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\src\\main\\res\\drawable-ldpi\\ic_play1.png"
+    },
+    {
+        "merged": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_play4.png",
+        "source": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\src\\main\\res\\drawable-ldpi\\ic_play4.png"
+    },
+    {
+        "merged": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_play3.png",
+        "source": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\src\\main\\res\\drawable-ldpi\\ic_play3.png"
+    },
+    {
+        "merged": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_launcher.jpeg",
+        "source": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\location\\src\\main\\res\\drawable-ldpi\\ic_launcher.jpeg"
+    }
+]

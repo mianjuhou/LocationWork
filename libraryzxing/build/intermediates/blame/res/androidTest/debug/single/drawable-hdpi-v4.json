@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\libraryzxing\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\icon_back.png",
+        "source": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\libraryzxing\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\icon_back.png"
+    },
+    {
+        "merged": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\libraryzxing\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\selector_zxing_down_bg.png",
+        "source": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\libraryzxing\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\selector_zxing_down_bg.png"
+    },
+    {
+        "merged": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\libraryzxing\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\libraryzxing\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\libraryzxing\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\selector_zxing_nore_bg.png",
+        "source": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\libraryzxing\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\selector_zxing_nore_bg.png"
+    },
+    {
+        "merged": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\libraryzxing\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\icon_back_focus.png",
+        "source": "D:\\WorkspaceAndroid\\Studio03\\LocationWork\\libraryzxing\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\icon_back_focus.png"
+    }
+]

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">libraryvideo</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="start">开始</string>
+    <string name="pause">暂停</string>
+    <string name="end">结束</string>
+    <string name="base_defaulttext">default</string>
+    <string name="hint">提示</string>
+    <string name="record_camera_exit_dialog_message">是否放弃这段视频？</string>
+    <string name="record_camera_cancel_dialog_yes">确定</string>
+    <string name="record_camera_cancel_dialog_no">取消</string>
+    <string name="record_camera_progress_message">正在保存…</string>
+    <string name="ercode_ok">保存成功</string>
+    <string name="ercode_failed">保存失败</string>
+    
+
+</resources>

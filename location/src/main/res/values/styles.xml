@@ -1,0 +1,78 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!--
+        Base application theme, dependent on API level. This theme is replaced
+        by AppBaseTheme from res/values-vXX/styles.xml on newer devices.
+    -->
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+
+    <!-- Application theme. -->
+    <style name="AppTheme" parent="AppBaseTheme">
+        <item name="android:windowNoTitle">true</item>
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+
+    <style name="woquery_info_lin_style">
+        <item name="android:layout_marginLeft">10dip</item>
+        <item name="android:layout_marginRight">10dip</item>
+    </style>
+
+    <style name="woinfo_itemtexttips_style">
+        <item name="android:textColor">@color/list_itemtext_tipscolor</item>
+        <item name="android:textSize">@dimen/baseitem_text_tips_size</item>
+    </style>
+
+    <style name="woinfo_itemtext_style">
+        <item name="android:textColor">@color/list_itemtext_color</item>
+        <item name="android:textSize">@dimen/baseitem_text_size</item>
+    </style>
+
+    <style name="wolist_toptext_style">
+        <item name="android:textColor">@color/wolist_toptips_color</item>
+        <item name="android:textSize">@dimen/wolist_toptips_size</item>
+    </style>
+
+    <style name="item_view_style">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">50dp</item>
+        <item name="android:background">@color/white</item>
+        <item name="android:paddingLeft">10dp</item>
+        <item name="android:paddingRight">20dp</item>
+        <item name="android:clickable">true</item>
+    </style>
+
+    <style name="item_arrow_style">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_alignParentRight">true</item>
+        <item name="android:layout_centerVertical">true</item>
+        <item name="android:src">@drawable/arrow_item</item>
+        <item name="android:contentDescription">描述</item>
+    </style>
+
+    <style name="item_tv_title_style">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_alignParentLeft">true</item>
+        <item name="android:layout_centerVertical">true</item>
+        <item name="android:textColor">@color/hint_font2</item>
+        <item name="android:textSize">17sp</item>
+        <item name="android:gravity">center</item>
+    </style>
+
+    <style name="base_text_button">
+        <item name="android:textSize">20sp</item>
+        <item name="android:textColor">@drawable/selector_btn_text_deblue_upgray</item>
+    </style>
+
+    <style name="base_button">
+        <item name="android:background">@drawable/selector_btn_query_style</item>
+    </style>
+
+</resources>

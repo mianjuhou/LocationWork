@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+    <!-- 头部 -->
+
+    <include
+        layout="@layout/basic_jtv_common_header"
+        android:visibility="gone" />
+
+    <TextView
+        android:id="@+id/tv_name"
+        style="@style/woinfo_itemtexttips_style"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/woquery_pro" />
+
+    <TextView
+        android:id="@+id/tv_value"
+        style="@style/woinfo_itemtext_style"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:text="@string/base_defaulttext"
+        android:textSize="@dimen/basetips_size" />
+
+
+    <com.jtv.base.ui.ReboundScrollView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:visibility="gone" >
+
+        <LinearLayout
+            style="@style/woquery_info_lin_style"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <TextView
+                style="@style/woinfo_itemtexttips_style"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/woquery_pro" />
+
+            <TextView
+                android:id="@+id/tv_woquery_pro"
+                style="@style/woinfo_itemtext_style"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/base_defaulttext"
+                android:textSize="@dimen/basetips_size" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="1dip"
+                android:layout_marginBottom="10dip"
+                android:layout_marginTop="10dip"
+                android:background="@color/horizonline_color" />
+
+            <TextView
+                style="@style/woinfo_itemtexttips_style"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/woquery_workno_tips" />
+
+            <TextView
+                android:id="@+id/tv_wonum"
+                style="@style/woinfo_itemtext_style"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/base_defaulttext"
+                android:textSize="@dimen/basetips_size" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="1dip"
+                android:layout_marginBottom="10dip"
+                android:layout_marginTop="10dip"
+                android:background="@color/horizonline_color" />
+
+            <TextView
+                style="@style/woinfo_itemtexttips_style"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/wolist_itemplandate" />
+
+            <TextView
+                android:id="@+id/tv_plandate"
+                style="@style/woinfo_itemtext_style"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/base_defaulttext"
+                android:textSize="@dimen/basetips_size" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="1dip"
+                android:layout_marginBottom="10dip"
+                android:layout_marginTop="10dip"
+                android:background="@color/horizonline_color" />
+
+            <TextView
+                style="@style/woinfo_itemtexttips_style"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/line_name" />
+
+            <TextView
+                android:id="@+id/tv_linename"
+                style="@style/woinfo_itemtext_style"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/base_defaulttext"
+                android:textSize="@dimen/basetips_size" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="1dip"
+                android:layout_marginBottom="10dip"
+                android:layout_marginTop="10dip"
+                android:background="@color/horizonline_color" />
+
+            <TextView
+                style="@style/woinfo_itemtexttips_style"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/line_type" />
+
+            <TextView
+                android:id="@+id/tv_linetype"
+                style="@style/woinfo_itemtext_style"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/base_defaulttext"
+                android:textSize="@dimen/basetips_size" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="1dip"
+                android:layout_marginBottom="10dip"
+                android:layout_marginTop="10dip"
+                android:background="@color/horizonline_color" />
+
+            <TextView
+                style="@style/woinfo_itemtexttips_style"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/woquery_person_tips" />
+
+            <TextView
+                android:id="@+id/tv_persion"
+                style="@style/woinfo_itemtext_style"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/base_defaulttext"
+                android:textSize="@dimen/basetips_size" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="1dip"
+                android:layout_marginBottom="10dip"
+                android:layout_marginTop="10dip"
+                android:background="@color/horizonline_color" />
+
+            <TextView
+                style="@style/woinfo_itemtexttips_style"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/wolist_wonum_type" />
+
+            <TextView
+                android:id="@+id/tv_wolist_wonum_type"
+                style="@style/woinfo_itemtext_style"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/base_defaulttext"
+                android:textSize="@dimen/basetips_size" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="1dip"
+                android:layout_marginBottom="10dip"
+                android:layout_marginTop="10dip"
+                android:background="@color/horizonline_color" />
+
+            <TextView
+                style="@style/woinfo_itemtexttips_style"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/wolist_dept" />
+
+            <TextView
+                android:id="@+id/tv_wolist_dept"
+                style="@style/woinfo_itemtext_style"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/base_defaulttext"
+                android:textSize="@dimen/basetips_size" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="1dip"
+                android:layout_marginBottom="10dip"
+                android:layout_marginTop="10dip"
+                android:background="@color/horizonline_color" />
+
+            <TextView
+                style="@style/woinfo_itemtexttips_style"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/wolist_location_work" />
+
+            <TextView
+                android:id="@+id/tv_wolist_location_work"
+                style="@style/woinfo_itemtext_style"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/base_defaulttext"
+                android:textSize="@dimen/basetips_size" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="1dip"
+                android:layout_marginBottom="10dip"
+                android:layout_marginTop="10dip"
+                android:background="@color/horizonline_color" />
+
+            <TextView
+                style="@style/woinfo_itemtexttips_style"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/wolist_wolevel" />
+
+            <TextView
+                android:id="@+id/tv_wolist_wolevel"
+                style="@style/woinfo_itemtext_style"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/base_defaulttext"
+                android:textSize="@dimen/basetips_size" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="1dip"
+                android:layout_marginBottom="10dip"
+                android:layout_marginTop="10dip"
+                android:background="@color/horizonline_color" />
+        </LinearLayout>
+    </com.jtv.base.ui.ReboundScrollView>
+    <!-- include layout="@layout/location_jtv_woquery_body_top" -->
+
+</LinearLayout>

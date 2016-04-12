@@ -1,0 +1,557 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml:2:1-385:12
+	package
+		ADDED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml:3:5-39
+		INJECTED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml
+		INJECTED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml
+		INJECTED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml:4:5-29
+		INJECTED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml
+		INJECTED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v4:23.3.0] D:\WorkspaceAndroid\Studio03\LocationWork\location\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\AndroidManifest.xml:20:5-43
+MERGED from [LocationWork:librarybaseui:unspecified] D:\WorkspaceAndroid\Studio03\LocationWork\location\build\intermediates\exploded-aar\LocationWork\librarybaseui\unspecified\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v4:23.3.0] D:\WorkspaceAndroid\Studio03\LocationWork\location\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\AndroidManifest.xml:20:5-43
+MERGED from [LocationWork:libraryface:unspecified] D:\WorkspaceAndroid\Studio03\LocationWork\location\build\intermediates\exploded-aar\LocationWork\libraryface\unspecified\AndroidManifest.xml:7:5-9:41
+MERGED from [LocationWork:libraryzxing:unspecified] D:\WorkspaceAndroid\Studio03\LocationWork\location\build\intermediates\exploded-aar\LocationWork\libraryzxing\unspecified\AndroidManifest.xml:7:5-9:41
+MERGED from [LocationWork:libstreaming:unspecified] D:\WorkspaceAndroid\Studio03\LocationWork\location\build\intermediates\exploded-aar\LocationWork\libstreaming\unspecified\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:23.3.0] D:\WorkspaceAndroid\Studio03\LocationWork\location\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.3.0\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-vector-drawable:23.3.0] D:\WorkspaceAndroid\Studio03\LocationWork\location\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.3.0\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:23.3.0] D:\WorkspaceAndroid\Studio03\LocationWork\location\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:animated-vector-drawable:23.3.0] D:\WorkspaceAndroid\Studio03\LocationWork\location\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.3.0\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-vector-drawable:23.3.0] D:\WorkspaceAndroid\Studio03\LocationWork\location\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.3.0\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:23.3.0] D:\WorkspaceAndroid\Studio03\LocationWork\location\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.3.0] D:\WorkspaceAndroid\Studio03\LocationWork\location\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.3.0] D:\WorkspaceAndroid\Studio03\LocationWork\location\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\AndroidManifest.xml:20:5-43
+MERGED from [LocationWork:libraryloadigindicator:unspecified] D:\WorkspaceAndroid\Studio03\LocationWork\location\build\intermediates\exploded-aar\LocationWork\libraryloadigindicator\unspecified\AndroidManifest.xml:5:5-8:16
+MERGED from [com.android.support:support-v4:23.3.0] D:\WorkspaceAndroid\Studio03\LocationWork\location\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\AndroidManifest.xml:20:5-43
+MERGED from [LocationWork:libvitamiocamer:unspecified] D:\WorkspaceAndroid\Studio03\LocationWork\location\build\intermediates\exploded-aar\LocationWork\libvitamiocamer\unspecified\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v4:23.3.0] D:\WorkspaceAndroid\Studio03\LocationWork\location\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\AndroidManifest.xml:20:5-43
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:23.3.0] D:\WorkspaceAndroid\Studio03\LocationWork\location\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.3.0\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		ADDED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml:9:9-38
+		INJECTED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml
+		INJECTED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml:8:9-35
+		INJECTED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml
+		INJECTED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml
+application
+ADDED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml:11:5-285:19
+MERGED from [com.android.support:support-v4:23.3.0] D:\WorkspaceAndroid\Studio03\LocationWork\location\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\AndroidManifest.xml:22:5-20
+MERGED from [LocationWork:librarybaseui:unspecified] D:\WorkspaceAndroid\Studio03\LocationWork\location\build\intermediates\exploded-aar\LocationWork\librarybaseui\unspecified\AndroidManifest.xml:11:5-20
+MERGED from [com.android.support:support-v4:23.3.0] D:\WorkspaceAndroid\Studio03\LocationWork\location\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\AndroidManifest.xml:22:5-20
+MERGED from [LocationWork:libraryface:unspecified] D:\WorkspaceAndroid\Studio03\LocationWork\location\build\intermediates\exploded-aar\LocationWork\libraryface\unspecified\AndroidManifest.xml:11:5-16:19
+MERGED from [LocationWork:libraryzxing:unspecified] D:\WorkspaceAndroid\Studio03\LocationWork\location\build\intermediates\exploded-aar\LocationWork\libraryzxing\unspecified\AndroidManifest.xml:19:5-33:19
+MERGED from [com.android.support:appcompat-v7:23.3.0] D:\WorkspaceAndroid\Studio03\LocationWork\location\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.3.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-vector-drawable:23.3.0] D:\WorkspaceAndroid\Studio03\LocationWork\location\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.3.0\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.3.0] D:\WorkspaceAndroid\Studio03\LocationWork\location\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.3.0] D:\WorkspaceAndroid\Studio03\LocationWork\location\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.3.0\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.3.0] D:\WorkspaceAndroid\Studio03\LocationWork\location\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.3.0\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.3.0] D:\WorkspaceAndroid\Studio03\LocationWork\location\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.3.0] D:\WorkspaceAndroid\Studio03\LocationWork\location\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.3.0] D:\WorkspaceAndroid\Studio03\LocationWork\location\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\AndroidManifest.xml:22:5-20
+MERGED from [LocationWork:libraryloadigindicator:unspecified] D:\WorkspaceAndroid\Studio03\LocationWork\location\build\intermediates\exploded-aar\LocationWork\libraryloadigindicator\unspecified\AndroidManifest.xml:10:5-13:19
+MERGED from [com.android.support:support-v4:23.3.0] D:\WorkspaceAndroid\Studio03\LocationWork\location\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.3.0] D:\WorkspaceAndroid\Studio03\LocationWork\location\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\AndroidManifest.xml:22:5-20
+	android:screenOrientation
+		ADDED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml:17:9-45
+	android:label
+		ADDED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml:16:9-41
+	android:configChanges
+		ADDED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml:14:9-59
+	android:allowBackup
+		ADDED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml:13:9-35
+	android:icon
+		ADDED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml:15:9-45
+	android:theme
+		ADDED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml:18:9-40
+	android:name
+		ADDED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml:12:9-42
+meta-data#TencentMapSDK
+ADDED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml:21:9-23:67
+	android:value
+		ADDED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml:23:13-64
+	android:name
+		ADDED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml:22:13-41
+activity#com.jtv.locationwork.activity.SplashAty
+ADDED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml:26:9-36:20
+	android:screenOrientation
+		ADDED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml:30:13-49
+	android:label
+		ADDED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml:28:13-45
+	android:launchMode
+		ADDED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml:29:13-44
+	android:name
+		ADDED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml:27:13-67
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml:31:13-35:29
+action#android.intent.action.MAIN
+ADDED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml:32:17-69
+	android:name
+		ADDED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml:32:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml:34:17-77
+	android:name
+		ADDED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml:34:27-74
+activity#com.jtv.hrb.locationwork.LineCurveCheckActivity
+ADDED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml:37:9-41:20
+	android:label
+		ADDED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml:39:13-68
+	android:windowSoftInputMode
+		ADDED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml:40:13-54
+	android:name
+		ADDED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml:38:13-51
+activity#com.jtv.locationwork.activity.PainterAty
+ADDED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml:44:9-47:20
+	android:screenOrientation
+		ADDED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml:46:13-49
+	android:name
+		ADDED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml:45:13-68
+activity#com.jtv.locationwork.activity.GdxqActivity
+ADDED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml:50:9-54:20
+	android:screenOrientation
+		ADDED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml:52:13-49
+	android:windowSoftInputMode
+		ADDED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml:53:13-72
+	android:name
+		ADDED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml:51:13-70
+activity#com.jtv.locationwork.activity.QueryToolAty
+ADDED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml:57:9-61:20
+	android:screenOrientation
+		ADDED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml:59:13-49
+	android:windowSoftInputMode
+		ADDED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml:60:13-72
+	android:name
+		ADDED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml:58:13-70
+activity#com.jtv.locationwork.activity.FileManagerAty
+ADDED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml:64:9-68:20
+	android:screenOrientation
+		ADDED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml:66:13-49
+	android:windowSoftInputMode
+		ADDED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml:67:13-72
+	android:name
+		ADDED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml:65:13-72
+activity#com.jtv.locationwork.activity.PhotoAty
+ADDED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml:71:9-76:20
+	android:screenOrientation
+		ADDED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml:74:13-49
+	android:windowSoftInputMode
+		ADDED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml:75:13-72
+	android:configChanges
+		ADDED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml:73:13-63
+	android:name
+		ADDED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml:72:13-66
+activity#com.plutus.libraryzxing.ErcodeScanActivity
+ADDED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml:79:9-83:20
+	android:screenOrientation
+		ADDED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml:81:13-49
+	android:windowSoftInputMode
+		ADDED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml:82:13-72
+	android:name
+		ADDED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml:80:13-70
+activity#com.jtv.locationwork.activity.MapAty
+ADDED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml:86:9-89:20
+	android:screenOrientation
+		ADDED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml:88:13-49
+	android:name
+		ADDED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml:87:13-64
+activity#com.jtv.locationwork.activity.WorkHandOverTabAty
+ADDED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml:92:9-95:20
+	android:screenOrientation
+		ADDED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml:94:13-49
+	android:name
+		ADDED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml:93:13-76
+activity#com.jtv.locationwork.activity.WoNumTakePhoto
+ADDED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml:98:9-102:20
+	android:screenOrientation
+		ADDED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml:100:13-49
+	android:windowSoftInputMode
+		ADDED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml:101:13-72
+	android:name
+		ADDED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml:99:13-72
+activity#com.jtv.locationwork.activity.CacheAty
+ADDED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml:105:9-109:20
+	android:screenOrientation
+		ADDED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml:107:13-49
+	android:windowSoftInputMode
+		ADDED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml:108:13-72
+	android:name
+		ADDED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml:106:13-66
+activity#com.jtv.locationwork.activity.VideoPlayerAty
+ADDED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml:112:9-116:20
+	android:screenOrientation
+		ADDED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml:114:13-49
+	android:windowSoftInputMode
+		ADDED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml:115:13-72
+	android:name
+		ADDED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml:113:13-72
+activity#com.jtv.locationwork.activity.FileChoose
+ADDED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml:119:9-123:20
+	android:screenOrientation
+		ADDED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml:121:13-49
+	android:windowSoftInputMode
+		ADDED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml:122:13-72
+	android:name
+		ADDED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml:120:13-68
+activity#com.jtv.locationwork.activity.RtspVideoAty
+ADDED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml:126:9-130:20
+	android:screenOrientation
+		ADDED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml:128:13-49
+	android:windowSoftInputMode
+		ADDED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml:129:13-72
+	android:name
+		ADDED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml:127:13-70
+activity#com.jtv.locationwork.activity.TakePhotoAty
+ADDED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml:133:9-137:20
+	android:screenOrientation
+		ADDED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml:135:13-49
+	android:windowSoftInputMode
+		ADDED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml:136:13-72
+	android:name
+		ADDED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml:134:13-70
+activity#com.jtv.locationwork.activity.DepartSeting
+ADDED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml:140:9-144:20
+	android:screenOrientation
+		ADDED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml:142:13-49
+	android:windowSoftInputMode
+		ADDED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml:143:13-72
+	android:name
+		ADDED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml:141:13-70
+activity#com.jtv.locationwork.activity.TakeVideoAlbum
+ADDED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml:147:9-151:20
+	android:screenOrientation
+		ADDED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml:149:13-49
+	android:windowSoftInputMode
+		ADDED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml:150:13-72
+	android:name
+		ADDED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml:148:13-72
+service#com.jtv.locationwork.services.GpsServices
+ADDED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml:154:9-156:45
+	android:label
+		ADDED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml:156:13-42
+	android:name
+		ADDED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml:155:13-69
+activity#com.jtv.locationwork.activity.StationWonumAty
+ADDED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml:159:9-163:20
+	android:screenOrientation
+		ADDED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml:161:13-49
+	android:windowSoftInputMode
+		ADDED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml:162:13-72
+	android:name
+		ADDED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml:160:13-73
+activity#com.jtv.locationwork.activity.PhotoTreeAty
+ADDED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml:166:9-171:20
+	android:screenOrientation
+		ADDED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml:168:13-49
+	android:windowSoftInputMode
+		ADDED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml:170:13-72
+	android:theme
+		ADDED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml:169:13-72
+	android:name
+		ADDED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml:167:13-70
+activity#com.jtv.base.activity.BaseCalenderAty
+ADDED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml:174:9-178:20
+	android:screenOrientation
+		ADDED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml:176:13-49
+	android:windowSoftInputMode
+		ADDED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml:177:13-72
+	android:name
+		ADDED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml:175:13-65
+activity#com.jtv.locationwork.activity.HomeFragment
+ADDED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml:181:9-186:20
+	android:screenOrientation
+		ADDED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml:184:13-49
+	android:launchMode
+		ADDED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml:183:13-44
+	android:windowSoftInputMode
+		ADDED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml:185:13-72
+	android:name
+		ADDED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml:182:13-70
+activity#com.jtv.locationwork.activity.CheckAty
+ADDED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml:189:9-193:20
+	android:screenOrientation
+		ADDED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml:191:13-49
+	android:windowSoftInputMode
+		ADDED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml:192:13-72
+	android:name
+		ADDED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml:190:13-66
+activity#com.jtv.locationwork.activity.PreviewDCIMAty
+ADDED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml:196:9-200:20
+	android:screenOrientation
+		ADDED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml:198:13-49
+	android:windowSoftInputMode
+		ADDED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml:199:13-72
+	android:name
+		ADDED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml:197:13-72
+activity#com.jtv.video.recorder.activity.RecordVideoAty
+ADDED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml:203:9-207:20
+	android:screenOrientation
+		ADDED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml:205:13-49
+	android:windowSoftInputMode
+		ADDED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml:206:13-72
+	android:name
+		ADDED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml:204:13-74
+activity#com.jtv.locationwork.activity.FaceAty
+ADDED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml:210:9-214:20
+	android:screenOrientation
+		ADDED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml:212:13-49
+	android:windowSoftInputMode
+		ADDED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml:213:13-72
+	android:name
+		ADDED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml:211:13-65
+activity#com.jtv.locationwork.activity.CheckCacheAty
+ADDED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml:217:9-221:20
+	android:screenOrientation
+		ADDED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml:219:13-49
+	android:windowSoftInputMode
+		ADDED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml:220:13-72
+	android:name
+		ADDED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml:218:13-71
+service#com.jtv.locationwork.services.DownLoadHttpServices
+ADDED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml:224:9-226:34
+	android:label
+		ADDED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml:226:13-31
+	android:name
+		ADDED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml:225:13-78
+receiver#com.jtv.locationwork.receiver.BootCompletedReceiver
+ADDED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml:229:9-235:20
+	android:name
+		ADDED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml:229:19-85
+intent-filter#android.intent.action.BOOT_COMPLETED
+ADDED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml:230:13-234:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml:231:17-79
+	android:name
+		ADDED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml:231:25-76
+activity#com.jtv.locationwork.activity.ClassSelectActivity
+ADDED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml:237:9-240:20
+	android:label
+		ADDED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml:239:13-64
+	android:name
+		ADDED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml:238:13-77
+activity#com.jtv.hrb.locationwork.StaticCheckActivity
+ADDED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml:241:9-244:20
+	android:label
+		ADDED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml:243:13-64
+	android:name
+		ADDED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml:242:13-48
+activity#com.jtv.locationwork.activity.StationWonumAty2
+ADDED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml:245:9-246:20
+	android:name
+		ADDED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml:245:19-80
+activity#com.jtv.locationwork.activity.GdxqActivity2
+ADDED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml:247:9-248:20
+	android:name
+		ADDED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml:247:19-77
+activity#com.jtv.hrb.locationwork.TurnoutCheckActivity
+ADDED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml:249:9-253:20
+	android:label
+		ADDED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml:251:13-65
+	android:windowSoftInputMode
+		ADDED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml:252:13-54
+	android:name
+		ADDED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml:250:13-49
+activity#com.jtv.hrb.locationwork.LineCurveCheckActivity2
+ADDED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml:254:9-257:20
+	android:windowSoftInputMode
+		ADDED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml:256:13-54
+	android:name
+		ADDED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml:255:13-52
+activity#com.jtv.hrb.locationwork.TurnoutListActivity
+ADDED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml:258:9-261:20
+	android:label
+		ADDED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml:260:13-64
+	android:name
+		ADDED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml:259:13-48
+activity#com.jtv.locationwork.activity.RequestPermissionAty
+ADDED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml:262:9-267:20
+	android:screenOrientation
+		ADDED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml:265:13-49
+	android:windowSoftInputMode
+		ADDED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml:266:13-72
+	android:configChanges
+		ADDED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml:264:13-62
+	android:name
+		ADDED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml:263:13-78
+activity#com.jtv.hrb.locationwork.CurveListActivity
+ADDED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml:268:9-271:20
+	android:label
+		ADDED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml:270:13-62
+	android:name
+		ADDED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml:269:13-46
+activity#com.jtv.hrb.locationwork.TurnoutCheck2Activity
+ADDED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml:272:9-276:20
+	android:label
+		ADDED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml:274:13-66
+	android:windowSoftInputMode
+		ADDED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml:275:13-54
+	android:name
+		ADDED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml:273:13-50
+activity#com.jtv.hrb.locationwork.QuestionInputActivity
+ADDED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml:277:9-280:20
+	android:label
+		ADDED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml:279:13-66
+	android:name
+		ADDED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml:278:13-50
+activity#com.jtv.hrb.locationwork.QuestionTurnoutActivity
+ADDED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml:281:9-284:20
+	android:label
+		ADDED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml:283:13-68
+	android:name
+		ADDED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml:282:13-52
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml:293:5-78
+MERGED from [LocationWork:libvitamiocamer:unspecified] D:\WorkspaceAndroid\Studio03\LocationWork\location\build\intermediates\exploded-aar\LocationWork\libvitamiocamer\unspecified\AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml:293:22-75
+uses-permission#android.permission.VIBRATE
+ADDED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml:294:5-66
+	android:name
+		ADDED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml:294:22-63
+uses-permission#android.permission.GET_TASKS
+ADDED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml:295:5-68
+	android:name
+		ADDED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml:295:22-65
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml:297:5-80
+	android:name
+		ADDED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml:297:22-77
+uses-permission#android.permission.ACCESS_LOCATION_EXTRA_COMMANDS
+ADDED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml:300:5-89
+	android:name
+		ADDED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml:300:22-86
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml:302:5-79
+	android:name
+		ADDED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml:302:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml:304:5-81
+	android:name
+		ADDED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml:304:22-78
+uses-permission#android.permission.INTERNET
+ADDED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml:306:5-67
+MERGED from [LocationWork:libvitamiocamer:unspecified] D:\WorkspaceAndroid\Studio03\LocationWork\location\build\intermediates\exploded-aar\LocationWork\libvitamiocamer\unspecified\AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml:306:22-64
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml:308:5-76
+MERGED from [LocationWork:libvitamiocamer:unspecified] D:\WorkspaceAndroid\Studio03\LocationWork\location\build\intermediates\exploded-aar\LocationWork\libvitamiocamer\unspecified\AndroidManifest.xml:18:5-76
+	android:name
+		ADDED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml:308:22-73
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml:310:5-76
+	android:name
+		ADDED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml:310:22-73
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml:312:5-79
+MERGED from [LocationWork:libvitamiocamer:unspecified] D:\WorkspaceAndroid\Studio03\LocationWork\location\build\intermediates\exploded-aar\LocationWork\libvitamiocamer\unspecified\AndroidManifest.xml:17:5-79
+	android:name
+		ADDED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml:312:22-76
+uses-permission#android.permission.CHANGE_NETWORK_STATE
+ADDED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml:314:5-79
+	android:name
+		ADDED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml:314:22-76
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml:316:5-75
+	android:name
+		ADDED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml:316:22-72
+uses-permission#android.permission.CALL_PHONE
+ADDED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml:319:5-320:23
+	android:name
+		ADDED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml:319:22-66
+uses-permission#android.permission.DISABLE_KEYGUARD
+ADDED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml:321:5-75
+	android:name
+		ADDED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml:321:22-72
+uses-permission#android.permission.GET_PACKAGE_SIZE
+ADDED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml:322:5-75
+	android:name
+		ADDED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml:322:22-72
+uses-permission#android.permission.READ_LOGS
+ADDED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml:323:5-68
+	android:name
+		ADDED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml:323:22-65
+uses-permission#android.permission.CHANGE_CONFIGURATION
+ADDED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml:324:5-79
+	android:name
+		ADDED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml:324:22-76
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml:325:5-73
+	android:name
+		ADDED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml:325:22-70
+uses-permission#android.permission.WAKE_LOCK
+ADDED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml:346:5-68
+MERGED from [LocationWork:libvitamiocamer:unspecified] D:\WorkspaceAndroid\Studio03\LocationWork\location\build\intermediates\exploded-aar\LocationWork\libvitamiocamer\unspecified\AndroidManifest.xml:15:5-68
+	android:name
+		ADDED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml:346:22-65
+uses-permission#android.permission.READ_PHONE_SINTERNETWIFI_STATE
+ADDED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml:347:5-89
+	android:name
+		ADDED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml:347:22-86
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml:351:5-81
+MERGED from [LocationWork:libraryzxing:unspecified] D:\WorkspaceAndroid\Studio03\LocationWork\location\build\intermediates\exploded-aar\LocationWork\libraryzxing\unspecified\AndroidManifest.xml:13:5-14:23
+MERGED from [LocationWork:libvitamiocamer:unspecified] D:\WorkspaceAndroid\Studio03\LocationWork\location\build\intermediates\exploded-aar\LocationWork\libvitamiocamer\unspecified\AndroidManifest.xml:14:5-81
+	android:name
+		ADDED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml:351:22-78
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml:354:5-84
+MERGED from [LocationWork:libvitamiocamer:unspecified] D:\WorkspaceAndroid\Studio03\LocationWork\location\build\intermediates\exploded-aar\LocationWork\libvitamiocamer\unspecified\AndroidManifest.xml:16:5-84
+	android:name
+		ADDED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml:354:22-81
+uses-permission#android.permission.CAMERA
+ADDED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml:355:5-65
+MERGED from [LocationWork:libraryzxing:unspecified] D:\WorkspaceAndroid\Studio03\LocationWork\location\build\intermediates\exploded-aar\LocationWork\libraryzxing\unspecified\AndroidManifest.xml:11:5-12:23
+MERGED from [LocationWork:libvitamiocamer:unspecified] D:\WorkspaceAndroid\Studio03\LocationWork\location\build\intermediates\exploded-aar\LocationWork\libvitamiocamer\unspecified\AndroidManifest.xml:12:5-65
+	android:name
+		ADDED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml:355:22-62
+uses-feature#android.hardware.camera
+ADDED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml:357:5-359:35
+MERGED from [LocationWork:libraryzxing:unspecified] D:\WorkspaceAndroid\Studio03\LocationWork\location\build\intermediates\exploded-aar\LocationWork\libraryzxing\unspecified\AndroidManifest.xml:16:5-60
+MERGED from [LocationWork:libvitamiocamer:unspecified] D:\WorkspaceAndroid\Studio03\LocationWork\location\build\intermediates\exploded-aar\LocationWork\libvitamiocamer\unspecified\AndroidManifest.xml:21:5-23:35
+	android:required
+		ADDED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml:359:9-32
+		MERGED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml:359:9-32
+	android:name
+		ADDED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml:358:9-47
+uses-feature#android.hardware.camera.autofocus
+ADDED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml:360:5-362:36
+MERGED from [LocationWork:libraryzxing:unspecified] D:\WorkspaceAndroid\Studio03\LocationWork\location\build\intermediates\exploded-aar\LocationWork\libraryzxing\unspecified\AndroidManifest.xml:17:5-70
+MERGED from [LocationWork:libvitamiocamer:unspecified] D:\WorkspaceAndroid\Studio03\LocationWork\location\build\intermediates\exploded-aar\LocationWork\libvitamiocamer\unspecified\AndroidManifest.xml:24:5-26:36
+	android:required
+		ADDED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml:362:9-33
+		MERGED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml:362:9-33
+	android:name
+		ADDED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml:361:9-57
+uses-feature#0x00020000
+ADDED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml:363:5-365:35
+MERGED from [LocationWork:libvitamiocamer:unspecified] D:\WorkspaceAndroid\Studio03\LocationWork\location\build\intermediates\exploded-aar\LocationWork\libvitamiocamer\unspecified\AndroidManifest.xml:27:5-29:35
+	android:glEsVersion
+		ADDED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml:364:9-41
+	android:required
+		ADDED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml:365:9-32
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml:369:5-71
+MERGED from [LocationWork:libvitamiocamer:unspecified] D:\WorkspaceAndroid\Studio03\LocationWork\location\build\intermediates\exploded-aar\LocationWork\libvitamiocamer\unspecified\AndroidManifest.xml:13:5-71
+	android:name
+		ADDED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml:369:22-68
+uses-permission#android.Manifest.permission.VIBRATE
+ADDED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml:378:5-75
+	android:name
+		ADDED from D:\WorkspaceAndroid\Studio03\LocationWork\location\src\main\AndroidManifest.xml:378:22-72
+activity#com.plutus.libraryzxing.MainActivity
+ADDED from [LocationWork:libraryzxing:unspecified] D:\WorkspaceAndroid\Studio03\LocationWork\location\build\intermediates\exploded-aar\LocationWork\libraryzxing\unspecified\AndroidManifest.xml:24:9-32:20
+	android:label
+		ADDED from [LocationWork:libraryzxing:unspecified] D:\WorkspaceAndroid\Studio03\LocationWork\location\build\intermediates\exploded-aar\LocationWork\libraryzxing\unspecified\AndroidManifest.xml:26:13-45
+	android:name
+		ADDED from [LocationWork:libraryzxing:unspecified] D:\WorkspaceAndroid\Studio03\LocationWork\location\build\intermediates\exploded-aar\LocationWork\libraryzxing\unspecified\AndroidManifest.xml:25:13-64

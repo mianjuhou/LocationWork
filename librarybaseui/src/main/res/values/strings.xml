@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">librarybaseui</string>
+    <string name="base_defaultext">无</string>
+    <string name="base_backtexts">返回</string>
+    <string name="action_settings">设置</string>
+    <string name="color_swatch_descriptions">Color %1$d</string>
+    <string name="color_swatch_description_selectedss">Color %1$d selected</string>
+    <string name="color_picker_default_titles">Select a Color</string>
+
+</resources>
